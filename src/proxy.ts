@@ -1,18 +1,6 @@
 /**
  * proxy.ts — MRJC-BÉNIN
  * Proxy Next.js — Exécuté sur l'Edge Runtime avant chaque requête
- *
- * Pipeline de sécurité (dans l'ordre d'exécution) :
- *  1. Filtrage User-Agent malveillant
- *  2. Détection chemins suspicieux (path traversal, injection)
- *  3. Redirection HTTPS en production
- *  4. Protection routes /admin (JWT cookie httpOnly)
- *  5. Redirection login si déjà authentifié
- *  6. Headers de sécurité (CSP, HSTS, X-Frame, Permissions-Policy)
- *  7. CORS pour routes API publiques (GET seulement)
- *  8. Preflight OPTIONS
- *  9. Request ID pour le tracing
- * 10. Désactivation cache /admin et /api
  */
 
 import { NextResponse } from "next/server";
@@ -83,20 +71,29 @@ function verifyJWTEdge(token: string): boolean {
   }
 }
 
-/* ─── Content Security Policy ────────────────────────────────────────────── */
+/* ─── Content Security Policy (CORRIGÉ) ─────────────────────────────────── */
 function buildCSP(isProd: boolean): string {
-  const script = isProd
-    ? "'self' https://www.googletagmanager.com https://www.google-analytics.com"
-    : "'self' 'unsafe-eval' 'unsafe-inline'";
+  // Correction majeure : Ajout de 'unsafe-inline' et 'unsafe-eval' en PROD
+  // Indispensable pour l'hydratation Next.js 16 / React 19
+  const scriptSources = [
+    "'self'",
+    "'unsafe-inline'",
+    "'unsafe-eval'",
+    "https://www.googletagmanager.com",
+    "https://www.google-analytics.com",
+    "https://translate.google.com",
+    "https://translate.googleapis.com",
+  ].join(" ");
+
   return [
     `default-src 'self'`,
-    `script-src ${script}`,
-    `style-src 'self' 'unsafe-inline' https://fonts.googleapis.com`,
+    `script-src ${scriptSources}`,
+    `style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://translate.googleapis.com`,
     `font-src 'self' https://fonts.gstatic.com data:`,
-    `img-src 'self' data: blob: https://images.unsplash.com https://res.cloudinary.com https://picsum.photos https://www.google-analytics.com`,
-    `connect-src 'self' https://api.brevo.com https://api.resend.com https://www.google-analytics.com`,
+    `img-src 'self' data: blob: https://images.unsplash.com https://res.cloudinary.com https://picsum.photos https://www.google-analytics.com https://translate.google.com https://www.gstatic.com`,
+    `connect-src 'self' https://api.brevo.com https://api.resend.com https://www.google-analytics.com https://translate.googleapis.com`,
     `media-src 'self' https://res.cloudinary.com`,
-    `frame-src 'none'`,
+    `frame-src 'self' https://translate.google.com`, // Autorise l'iframe de traduction si besoin
     `frame-ancestors 'none'`,
     `object-src 'none'`,
     `base-uri 'self'`,
@@ -178,6 +175,8 @@ export async function proxy(request: NextRequest) {
     "Permissions-Policy",
     "camera=(), microphone=(), geolocation=(self), payment=(), usb=()",
   );
+
+  // Application de la CSP corrigée
   response.headers.set("Content-Security-Policy", buildCSP(isProd));
   response.headers.set("X-XSS-Protection", "1; mode=block");
 
