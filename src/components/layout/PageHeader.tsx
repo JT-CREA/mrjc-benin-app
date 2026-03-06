@@ -55,7 +55,7 @@ export default function PageHeader({
             className="object-cover opacity-25"
             sizes="100vw"
           />
-          <div className="absolute inset-0 bg-primary-50/70" />
+          <div className="absolute inset-0 bg-primary-800" />
         </>
       )}
 
