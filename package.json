@@ -17,7 +17,6 @@
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.0",
-    "@next/swc-win32-x64-msvc": "^15.2.4",
     "@react-email/components": "^0.0.35",
     "@tailwindcss/aspect-ratio": "^0.4.2",
     "@tailwindcss/container-queries": "^0.1.1",
