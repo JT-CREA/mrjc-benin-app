@@ -1,0 +1,188 @@
+{
+  "leadership": [
+    {
+      "id": "leader-01",
+      "name": "Père Anselme DOSSOU",
+      "role": "Président du Conseil d'Administration",
+      "department": "Direction Générale",
+      "bio": "Prêtre catholique et pionnier du développement rural au Bénin, le Père Dossou a cofondé MRJC-BÉNIN en 1985. Il incarne la vision d'un développement intégral ancré dans les valeurs chrétiennes et l'écoute des communautés.",
+      "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400",
+      "email": "president@mrjc-benin.org",
+      "linkedin": "",
+      "since": 1985,
+      "expertise": [
+        "Leadership spirituel",
+        "Gouvernance associative",
+        "Développement rural",
+        "Plaidoyer"
+      ],
+      "education": "Théologie — Université Catholique d'Abidjan"
+    },
+    {
+      "id": "leader-02",
+      "name": "Adélaïde KPANOU",
+      "role": "Directrice Exécutive",
+      "department": "Direction Générale",
+      "bio": "Économiste du développement avec 20 ans d'expérience dans la gestion de programmes ONG en Afrique de l'Ouest. Adélaïde pilote la stratégie institutionnelle et le développement des partenariats depuis 2018.",
+      "photo": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=400",
+      "email": "direction@mrjc-benin.org",
+      "linkedin": "https://linkedin.com",
+      "since": 2018,
+      "expertise": [
+        "Gestion de projets",
+        "Mobilisation de ressources",
+        "Partenariats internationaux",
+        "Stratégie"
+      ],
+      "education": "Master en Économie du Développement — Université Paris 1 Panthéon-Sorbonne"
+    },
+    {
+      "id": "leader-03",
+      "name": "Emmanuel HOUESSOU",
+      "role": "Directeur Financier & Administratif",
+      "department": "Finance & Administration",
+      "bio": "Expert-comptable certifié, Emmanuel supervise la gestion financière de MRJC-BÉNIN avec une rigueur reconnue par nos bailleurs. Il a mis en place un système de contrôle interne exemplaire depuis 2019.",
+      "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400",
+      "email": "daf@mrjc-benin.org",
+      "linkedin": "",
+      "since": 2019,
+      "expertise": [
+        "Comptabilité ONG",
+        "Audit interne",
+        "Gestion budgétaire bailleurs",
+        "Conformité SYSCOHADA"
+      ],
+      "education": "DESCF — École Nationale de Commerce de Cotonou"
+    }
+  ],
+  "board": [
+    {
+      "id": "board-01",
+      "name": "Prof. Rémi ALADJI",
+      "role": "Membre du Conseil d'Administration",
+      "institution": "Université d'Abomey-Calavi",
+      "expertise": ["Agronomie tropicale", "Sécurité alimentaire"],
+      "photo": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400"
+    },
+    {
+      "id": "board-02",
+      "name": "Dr. Monique CAPO-CHICHI",
+      "role": "Membre du Conseil d'Administration",
+      "institution": "ONU Femmes Bénin (retraitée)",
+      "expertise": ["Genre et développement", "Droits des femmes"],
+      "photo": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=400"
+    },
+    {
+      "id": "board-03",
+      "name": "Maître Théodore AZONSI",
+      "role": "Secrétaire Général du CA",
+      "institution": "Barreau du Bénin",
+      "expertise": ["Droit associatif", "Gouvernance", "Droit foncier"],
+      "photo": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400"
+    }
+  ],
+  "departments": [
+    {
+      "id": "staff-01",
+      "name": "Isidore AKPAKI",
+      "role": "Responsable Programme Agriculture & Environnement",
+      "department": "Conseil Agricole",
+      "bio": "Agronome de terrain, Isidore supervise les programmes de formation agricole et d'agroécologie dans les départements du Borgou, Zou et Plateau.",
+      "photo": "https://images.unsplash.com/photo-1546961342-ea5f62d5a27b?w=400",
+      "email": "agriculture@mrjc-benin.org",
+      "since": 2015,
+      "expertise": [
+        "Agroécologie",
+        "Chaînes de valeur",
+        "Formation paysanne",
+        "Gestion foncière"
+      ],
+      "education": "Ingénieur Agronome — Université de Parakou"
+    },
+    {
+      "id": "staff-02",
+      "name": "Dr. Nadège AGOSSOU",
+      "role": "Responsable Programme Santé & Nutrition",
+      "department": "Santé Communautaire",
+      "bio": "Médecin de santé publique, Nadège dirige les programmes de nutrition maternelle et infantile dans les zones d'intervention prioritaires du Nord Bénin.",
+      "photo": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=400",
+      "email": "sante@mrjc-benin.org",
+      "since": 2016,
+      "expertise": [
+        "Nutrition communautaire",
+        "Santé maternelle",
+        "WASH",
+        "Épidémiologie"
+      ],
+      "education": "Doctorat en Santé Publique — FMSP Cotonou"
+    },
+    {
+      "id": "staff-03",
+      "name": "Bernadette KOBA",
+      "role": "Responsable Programme Alphabétisation & Éducation",
+      "department": "Alphabétisation",
+      "bio": "Spécialiste de l'éducation non formelle, Bernadette a développé les curricula d'alphabétisation en langues nationales utilisés dans nos 48 centres.",
+      "photo": "https://images.unsplash.com/photo-1551836022-8b2858c9c69b?w=400",
+      "email": "alphabetisation@mrjc-benin.org",
+      "since": 2013,
+      "expertise": [
+        "Éducation non formelle",
+        "Langues nationales",
+        "Andragogie",
+        "Évaluation des apprentissages"
+      ],
+      "education": "Master Sciences de l'Éducation — Université d'Abomey-Calavi"
+    },
+    {
+      "id": "staff-04",
+      "name": "Fatou SOUMAÏLA",
+      "role": "Responsable Programme Genre & Autonomisation",
+      "department": "Autonomisation des Femmes",
+      "bio": "Militante des droits des femmes et experte en genre, Fatou pilote les programmes de leadership féminin et d'autonomisation économique dans les Collines et le Borgou.",
+      "photo": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?w=400",
+      "email": "genre@mrjc-benin.org",
+      "since": 2017,
+      "expertise": [
+        "Analyse genre",
+        "Leadership féminin",
+        "Microfinance",
+        "Droits des femmes"
+      ],
+      "education": "Master Genre et Développement — Université Senghor d'Alexandrie"
+    },
+    {
+      "id": "staff-05",
+      "name": "Cyrille GASSOU",
+      "role": "Responsable Suivi-Évaluation & Apprentissage",
+      "department": "S&E",
+      "bio": "Expert en systèmes de suivi-évaluation, Cyrille assure la qualité et la redevabilité de tous les projets de MRJC-BÉNIN à travers des outils de S&E participatifs.",
+      "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400",
+      "email": "se@mrjc-benin.org",
+      "since": 2020,
+      "expertise": [
+        "Suivi-évaluation",
+        "Gestion axée résultats",
+        "Systèmes d'information",
+        "Évaluation d'impact"
+      ],
+      "education": "Master Gestion de Projets — CESAG Dakar"
+    },
+    {
+      "id": "staff-06",
+      "name": "Sylvestre AGBODJI",
+      "role": "Chargé de Communication & Plaidoyer",
+      "department": "Communication",
+      "bio": "Journaliste de formation reconverti en communicant ONG, Sylvestre gère la présence digitale de MRJC-BÉNIN et produit les rapports narratifs et succès stories.",
+      "photo": "https://images.unsplash.com/photo-1463453091185-61582044d556?w=400",
+      "email": "communication@mrjc-benin.org",
+      "since": 2021,
+      "expertise": [
+        "Communication digitale",
+        "Rédaction impact",
+        "Réseaux sociaux",
+        "Plaidoyer"
+      ],
+      "education": "Licence Journalisme — ISTAC Cotonou"
+    }
+  ]
+}

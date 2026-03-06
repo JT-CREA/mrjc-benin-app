@@ -1,0 +1,287 @@
+[
+  {
+    "id": "agricultural-council",
+    "slug": "conseil-agricole-entrepreneuriat",
+    "label": "Conseil Agricole & Entrepreneuriat",
+    "tagline": "Former, accompagner et autonomiser les producteurs ruraux vers une agriculture durable et rentable",
+    "description": "MRJC-BÉNIN intervient depuis 1985 dans le domaine du conseil agricole et de l'entrepreneuriat rural. Notre approche combine la formation technique, l'appui-conseil de proximité et l'accompagnement entrepreneurial pour transformer les pratiques agricoles et améliorer les revenus des producteurs.",
+    "fullDescription": "L'appui-conseil agricole constitue le cœur historique des interventions de MRJC-BÉNIN. Nous travaillons avec les producteurs agricoles, leurs organisations et les structures d'encadrement pour améliorer durablement la productivité, la qualité des produits et l'accès aux marchés.\n\nNotre approche intègre les dimensions techniques (pratiques culturales, gestion post-récolte), organisationnelles (structuration des OP, gouvernance), commerciales (accès aux marchés, négociation) et entrepreneuriales (gestion, finance, innovation).",
+    "color": {
+      "primary": "#1B6B3A",
+      "bg": "bg-primary-500",
+      "text": "text-primary-700",
+      "light": "bg-primary-50"
+    },
+    "icon": "🌾",
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=1920",
+    "coverImage": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800",
+    "approach": [
+      {
+        "title": "Diagnostic & Besoins",
+        "description": "Analyse participative des systèmes de production et identification des contraintes prioritaires."
+      },
+      {
+        "title": "Formation Technique",
+        "description": "Sessions de formation en agro-écologie, bonnes pratiques agricoles et gestion des intrants."
+      },
+      {
+        "title": "Appui-Conseil de Terrain",
+        "description": "Visites régulières d'agents de terrain qualifiés auprès des producteurs et groupements."
+      },
+      {
+        "title": "Accompagnement Entrepreneurial",
+        "description": "Renforcement des capacités de gestion, accès au financement et développement de marchés."
+      }
+    ],
+    "keyActivities": [
+      "Formation en bonnes pratiques agro-écologiques",
+      "Conseil en gestion d'exploitation agricole",
+      "Structuration et appui aux organisations paysannes",
+      "Facilitation de l'accès aux marchés et aux financements",
+      "Promotion de l'agri-business et de l'entrepreneuriat rural",
+      "Formation des conseillers agricoles communautaires"
+    ],
+    "results": [
+      { "value": "6 000+", "label": "Producteurs formés", "icon": "👨‍🌾" },
+      { "value": "15+", "label": "Filières accompagnées", "icon": "🌱" },
+      { "value": "45%", "label": "Augmentation revenus", "icon": "📈" },
+      { "value": "8", "label": "Départements couverts", "icon": "📍" }
+    ],
+    "targetGroups": [
+      "Producteurs agricoles individuels",
+      "Groupements et coopératives agricoles",
+      "Jeunes agri-entrepreneurs",
+      "Femmes rurales productrices"
+    ],
+    "relatedProjects": ["proj-001"],
+    "order": 1
+  },
+  {
+    "id": "community-health",
+    "slug": "sante-communautaire-nutrition",
+    "label": "Santé Communautaire & Nutrition",
+    "tagline": "Améliorer la santé maternelle et infantile et renforcer les systèmes de santé communautaires",
+    "description": "Notre programme santé vise à réduire la mortalité maternelle et infantile, améliorer la nutrition des enfants de moins de 5 ans, et renforcer les capacités des acteurs de santé communautaires dans les zones rurales.",
+    "fullDescription": "La santé communautaire et la nutrition constituent des enjeux majeurs dans les zones rurales béninoises. MRJC-BÉNIN déploie des équipes de proximité formées pour accompagner les ménages, les femmes enceintes et allaitantes, et les enfants vulnérables.\n\nNos interventions s'appuient sur une approche intégrée combinant prévention, dépistage précoce, référencement et suivi nutritionnel, avec un accent particulier sur le changement de comportement.",
+    "color": {
+      "primary": "#2D5F8A",
+      "bg": "bg-accent-500",
+      "text": "text-accent-700",
+      "light": "bg-accent-50"
+    },
+    "icon": "🏥",
+    "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=1920",
+    "coverImage": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=800",
+    "approach": [
+      {
+        "title": "Dépistage Nutritionnel",
+        "description": "Dépistage actif de la malnutrition aiguë et chronique chez les enfants 0-5 ans."
+      },
+      {
+        "title": "Sensibilisation Communautaire",
+        "description": "Animation de causeries sur la nutrition, hygiène, pratiques familiales essentielles."
+      },
+      {
+        "title": "Formation des Agents",
+        "description": "Formation et supervision des Relais Communautaires de Santé (RCS)."
+      },
+      {
+        "title": "Référencement & Suivi",
+        "description": "Système de référencement vers les centres de santé et suivi des cas critiques."
+      }
+    ],
+    "keyActivities": [
+      "Dépistage actif de la malnutrition infantile",
+      "Distribution de suppléments nutritionnels",
+      "Causeries sur les pratiques d'alimentation du nourrisson",
+      "Formation des Relais Communautaires de Santé",
+      "Promotion de la consultation prénatale et postnatale",
+      "Jardins nutritifs communautaires"
+    ],
+    "results": [
+      { "value": "8 500", "label": "Enfants suivis", "icon": "👶" },
+      { "value": "240", "label": "Agents de santé formés", "icon": "🧑‍⚕️" },
+      { "value": "-35%", "label": "Réduction malnutrition", "icon": "📉" },
+      { "value": "6", "label": "Communes couvertes", "icon": "🏘️" }
+    ],
+    "targetGroups": [
+      "Enfants de 0 à 5 ans",
+      "Femmes enceintes et allaitantes",
+      "Relais Communautaires de Santé",
+      "Ménages ruraux vulnérables"
+    ],
+    "relatedProjects": ["proj-002"],
+    "order": 2
+  },
+  {
+    "id": "literacy-education",
+    "slug": "alphabetisation-education",
+    "label": "Alphabétisation & Éducation",
+    "tagline": "Ouvrir les portes du savoir pour une autonomisation durable des communautés rurales",
+    "description": "Les programmes d'alphabétisation de MRJC-BÉNIN ciblent les adultes non scolarisés, en priorité les femmes, pour leur permettre d'acquérir les compétences en lecture, écriture et calcul dans leur langue maternelle et en français.",
+    "fullDescription": "L'alphabétisation fonctionnelle est un levier fondamental de développement. Elle permet aux adultes d'accéder à l'information, de participer activement aux décisions communautaires, de gérer leurs activités économiques et de scolariser leurs enfants.\n\nMRJC-BÉNIN utilise une approche d'alphabétisation fonctionnelle qui relie l'apprentissage de la lecture/écriture aux activités quotidiennes des participants : agriculture, santé, commerce, citoyenneté.",
+    "color": {
+      "primary": "#D4870A",
+      "bg": "bg-secondary-500",
+      "text": "text-secondary-700",
+      "light": "bg-secondary-50"
+    },
+    "icon": "📚",
+    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1920",
+    "coverImage": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800",
+    "approach": [
+      {
+        "title": "Évaluation Initiale",
+        "description": "Évaluation du niveau des apprenants et constitution de groupes homogènes."
+      },
+      {
+        "title": "Centres Communautaires",
+        "description": "Installation de centres d'alphabétisation dans les villages avec du matériel adapté."
+      },
+      {
+        "title": "Alphabétisation Bilingue",
+        "description": "Apprentissage en langue maternelle (fon, bariba, fulfuldé) puis transition vers le français."
+      },
+      {
+        "title": "Post-Alphabétisation",
+        "description": "Activités de post-alphabétisation pour consolider les acquis par la pratique."
+      }
+    ],
+    "keyActivities": [
+      "Formation en lecture, écriture et calcul fonctionnel",
+      "Alphabétisation en langues nationales (fon, bariba, dendi)",
+      "Création et gestion de centres communautaires d'alphabétisation",
+      "Formation de formateurs locaux",
+      "Production de matériels pédagogiques adaptés",
+      "Activités de post-alphabétisation liées aux métiers"
+    ],
+    "results": [
+      { "value": "3 604", "label": "Personnes alphabétisées", "icon": "📖" },
+      { "value": "85%", "label": "Taux de rétention", "icon": "✅" },
+      { "value": "48", "label": "Centres créés", "icon": "🏫" },
+      { "value": "3", "label": "Langues nationales", "icon": "🗣️" }
+    ],
+    "targetGroups": [
+      "Femmes adultes non scolarisées",
+      "Jeunes déscolarisés",
+      "Adultes en zone rurale",
+      "Groupements féminins"
+    ],
+    "relatedProjects": ["proj-003"],
+    "order": 3
+  },
+  {
+    "id": "women-empowerment",
+    "slug": "autonomisation-femmes",
+    "label": "Autonomisation des Femmes",
+    "tagline": "Promouvoir l'égalité de genre et renforcer la participation des femmes à la vie économique et politique",
+    "description": "L'autonomisation des femmes est une priorité transversale de MRJC-BÉNIN. Nos programmes renforcent le leadership féminin, favorisent l'accès aux ressources économiques et combattent les violences basées sur le genre.",
+    "fullDescription": "Les femmes représentent plus de 50% de la population rurale béninoise et contribuent massivement à la production agricole et à l'économie des ménages, mais elles continuent de faire face à des inégalités systémiques dans l'accès aux ressources, à l'éducation et aux sphères de décision.\n\nMRJC-BÉNIN travaille à éliminer ces barrières en renforçant les capacités des femmes à travers la formation, le plaidoyer et l'accompagnement entrepreneurial.",
+    "color": {
+      "primary": "#8B2252",
+      "bg": "bg-purple-600",
+      "text": "text-purple-700",
+      "light": "bg-purple-50"
+    },
+    "icon": "✊",
+    "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1920",
+    "coverImage": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800",
+    "approach": [
+      {
+        "title": "Leadership & Gouvernance",
+        "description": "Formation des femmes au leadership, à la prise de parole en public et à la participation politique."
+      },
+      {
+        "title": "Entrepreneuriat Féminin",
+        "description": "Accompagnement de projets économiques féminins, accès au microcrédit et aux marchés."
+      },
+      {
+        "title": "Droits & Protection",
+        "description": "Sensibilisation aux droits des femmes, prévention des VBG, accompagnement des victimes."
+      },
+      {
+        "title": "Réseautage",
+        "description": "Création de réseaux de femmes leaders et d'espaces d'échange et de solidarité."
+      }
+    ],
+    "keyActivities": [
+      "Formation en leadership et prise de décision",
+      "Accompagnement de groupements économiques féminins",
+      "Facilitation de l'accès au microcrédit",
+      "Plaidoyer pour la participation des femmes aux instances locales",
+      "Sensibilisation contre les violences basées sur le genre",
+      "Mentorat et réseaux de femmes leaders"
+    ],
+    "results": [
+      { "value": "800+", "label": "Femmes leaders formées", "icon": "👩‍💼" },
+      { "value": "25%", "label": "Élues aux conseils locaux", "icon": "🗳️" },
+      { "value": "350", "label": "Entreprises féminines créées", "icon": "🏪" },
+      { "value": "1 500", "label": "Bénéficiaires microcrédit", "icon": "💰" }
+    ],
+    "targetGroups": [
+      "Femmes rurales de 18 à 50 ans",
+      "Jeunes filles leaders",
+      "Groupements féminins",
+      "Femmes victimes de VBG"
+    ],
+    "relatedProjects": ["proj-004"],
+    "order": 4
+  },
+  {
+    "id": "social-intermediation",
+    "slug": "intermediation-sociale",
+    "label": "Intermédiation Sociale",
+    "tagline": "Renforcer la cohésion sociale et les capacités des communautés à se gouverner elles-mêmes",
+    "description": "L'intermédiation sociale vise à renforcer la capacité des communautés rurales à participer activement aux processus de décision locale, à résoudre leurs conflits et à gérer collectivement leurs ressources.",
+    "fullDescription": "Dans de nombreuses zones rurales béninoises, les communautés font face à des défis de gouvernance locale, de gestion des conflits fonciers, et de faible participation aux instances de décision. MRJC-BÉNIN intervient comme facilitateur du dialogue social et du renforcement institutionnel.\n\nNos interventions soutiennent les organisations communautaires de base (OCB), les associations villageoises, et les instances de gouvernance locale pour qu'elles jouent pleinement leur rôle.",
+    "color": {
+      "primary": "#455A64",
+      "bg": "bg-neutral-600",
+      "text": "text-neutral-700",
+      "light": "bg-neutral-100"
+    },
+    "icon": "🤝",
+    "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=1920",
+    "coverImage": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=800",
+    "approach": [
+      {
+        "title": "Diagnostic Social",
+        "description": "Analyse participative des dynamiques communautaires, des tensions et des ressources locales."
+      },
+      {
+        "title": "Renforcement des OCB",
+        "description": "Formation et appui organisationnel aux associations et groupements communautaires."
+      },
+      {
+        "title": "Médiation & Dialogue",
+        "description": "Facilitation du dialogue inter-communautaire et médiation des conflits fonciers."
+      },
+      {
+        "title": "Plaidoyer Local",
+        "description": "Appui aux communautés pour exprimer leurs besoins auprès des autorités locales."
+      }
+    ],
+    "keyActivities": [
+      "Renforcement des organisations communautaires de base",
+      "Formation en leadership communautaire et gouvernance",
+      "Médiation de conflits fonciers et intercommunautaires",
+      "Appui à la planification participative locale",
+      "Facilitation de l'accès aux services publics",
+      "Formation de médiateurs communautaires"
+    ],
+    "results": [
+      { "value": "120+", "label": "OCB renforcées", "icon": "🏛️" },
+      { "value": "85", "label": "Conflits médiés", "icon": "⚖️" },
+      { "value": "45", "label": "Plans locaux élaborés", "icon": "📋" },
+      { "value": "15", "label": "Communes concernées", "icon": "🗺️" }
+    ],
+    "targetGroups": [
+      "Organisations communautaires de base",
+      "Autorités locales et leaders traditionnels",
+      "Jeunes et femmes exclus des décisions",
+      "Communautés en situation de conflit"
+    ],
+    "relatedProjects": [],
+    "order": 5
+  }
+]

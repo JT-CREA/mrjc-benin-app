@@ -1,0 +1,499 @@
+/* ══════════════════════════════════════════════════════════════════════════════
+   globals.css — MRJC-BÉNIN
+   Police : Montserrat Variable (2 fichiers TTF) via next/font/local
+   Couleurs synchronisées avec tailwind.config.ts (couleurs officielles logo)
+══════════════════════════════════════════════════════════════════════════════ */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ══════════════════════════════════════════════════════════════════════════════
+   DESIGN TOKENS — Variables CSS
+   Calées sur les hex officiels du logo MRJC-BÉNIN
+   Synchronisées avec les palettes Tailwind (shade 500 = valeur exacte logo)
+══════════════════════════════════════════════════════════════════════════════ */
+:root {
+  /* ── Polices ── */
+  --font-sans: var(
+    --font-montserrat,
+    "Montserrat",
+    Arial,
+    Helvetica,
+    sans-serif
+  );
+  --font-display: var(
+    --font-montserrat,
+    "Montserrat",
+    Arial,
+    Helvetica,
+    sans-serif
+  );
+  --font-body: var(--font-montserrat, Arial, Helvetica, sans-serif);
+  --font-code: "Consolas", "Courier New", monospace;
+
+  /* ── Couleurs officielles logo MRJC-BÉNIN ── */
+  --color-primary: #0081e2; /* Bleu ciel   — bandeau / ovale logo   */
+  --color-primary-light: #3299f0; /* Bleu ciel   — shade 400              */
+  --color-primary-dark: #004d88; /* Bleu ciel   — shade 700              */
+
+  --color-accent: #e2cc00; /* Jaune Bénin — point jaune logo       */
+  --color-accent-light: #f5e362; /* Jaune Bénin — shade 300              */
+  --color-accent-dark: #7f7200; /* Jaune Bénin — shade 700              */
+
+  --color-secondary: #038732; /* Vert forêt  — point vert logo        */
+  --color-secondary-light: #1db357; /* Vert forêt  — shade 400              */
+  --color-secondary-dark: #01481c; /* Vert forêt  — shade 700              */
+
+  --color-navy: #1102a5; /* Marine MRJC — texte "MRJC" logo      */
+  --color-navy-light: #4034c5; /* Marine MRJC — shade 400              */
+  --color-navy-dark: #09015d; /* Marine MRJC — shade 700              */
+
+  --color-logo-red: #e20707; /* Rouge Bénin — point rouge logo       */
+  --color-logo-red-light: #e83030; /* Rouge Bénin — shade 400              */
+  --color-logo-red-dark: #820404; /* Rouge Bénin — shade 700              */
+
+  /* ── UI ── */
+  --color-background: #f8f9fb;
+  --color-surface: #ffffff;
+  --color-border: #e4e7ef;
+  --color-footer: #0a0c17;
+  --color-text: #141727;
+  --color-text-muted: #6b7594;
+
+  /* ── Ombres brandées (rgba calé sur hex officiel) ── */
+  --shadow-nav: 0 1px 3px rgba(0, 0, 0, 0.08), 0 4px 16px rgba(0, 0, 0, 0.06);
+  --shadow-card: 0 2px 8px rgba(0, 0, 0, 0.06), 0 8px 24px rgba(0, 0, 0, 0.04);
+  --shadow-card-h:
+    0 8px 24px rgba(0, 0, 0, 0.1), 0 16px 48px rgba(0, 0, 0, 0.08);
+  --shadow-primary: 0 4px 14px rgba(0, 129, 226, 0.35); /* #0081E2 */
+  --shadow-accent: 0 4px 14px rgba(226, 204, 0, 0.4); /* #E2CC00 */
+  --shadow-secondary: 0 4px 14px rgba(3, 135, 50, 0.35); /* #038732 */
+  --shadow-navy: 0 4px 14px rgba(17, 2, 165, 0.3); /* #1102A5 */
+  --shadow-logo-red: 0 4px 14px rgba(226, 7, 7, 0.35); /* #E20707 */
+  --shadow-dropdown:
+    0 20px 60px -10px rgba(0, 0, 0, 0.18), 0 0 0 1px rgba(0, 0, 0, 0.04);
+  --shadow-focus: 0 0 0 3px rgba(0, 129, 226, 0.25); /* focus ring bleu */
+}
+
+/* ══════════════════════════════════════════════════════════════════════════════
+   BASE
+══════════════════════════════════════════════════════════════════════════════ */
+@layer base {
+  html {
+    font-family: var(--font-sans);
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+  body {
+    font-family: var(--font-sans);
+    background-color: var(--color-background);
+    color: var(--color-text);
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  p,
+  li,
+  dd,
+  dt,
+  blockquote,
+  figcaption {
+    font-family: var(--font-sans);
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--font-sans);
+    font-weight: 700;
+    line-height: 1.2;
+  }
+  input,
+  textarea,
+  select,
+  button,
+  label {
+    font-family: var(--font-sans);
+  }
+  code,
+  pre,
+  kbd,
+  samp {
+    font-family: var(--font-code);
+  }
+
+  /* Focus ring bleu ciel (nouvelle couleur primaire) */
+  :focus-visible {
+    outline: 2px solid var(--color-primary);
+    outline-offset: 2px;
+    border-radius: 4px;
+    box-shadow: var(--shadow-focus);
+  }
+
+  /* Scrollbar fine – tint bleu */
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: var(--color-background);
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #a8d1fa;
+    border-radius: 3px;
+  } /* primary-200 */
+  ::-webkit-scrollbar-thumb:hover {
+    background: var(--color-primary);
+  }
+
+  img,
+  video {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+}
+
+/* ══════════════════════════════════════════════════════════════════════════════
+   COMPOSANTS
+══════════════════════════════════════════════════════════════════════════════ */
+@layer components {
+  /* ── Conteneur ── */
+  .container-mrjc {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  /* ── Aération verticale ── */
+  .section-padding {
+    @apply py-20 md:py-24 lg:py-32;
+  }
+  .section-padding-sm {
+    @apply py-12 md:py-16 lg:py-20;
+  }
+  .section-block {
+    @apply mb-20 md:mb-24 lg:mb-28;
+  }
+  .section-block-sm {
+    @apply mb-12 md:mb-16;
+  }
+  .section-divider {
+    @apply border-t border-neutral-200 pt-16 mt-16 md:pt-20 md:mt-20;
+  }
+
+  /* ── Cartes ── */
+  .card {
+    @apply bg-white rounded-2xl overflow-hidden transition-all duration-300;
+    box-shadow: var(--shadow-card);
+  }
+  .card:hover {
+    box-shadow: var(--shadow-card-h);
+    transform: translateY(-2px);
+  }
+
+  /* ══════════════════════════════════════════════════════════════════════
+     BOUTONS
+     • .btn          = base (padding confortable, lisible)
+     • .btn-{couleur} = couleur + hérite padding de .btn
+     • .btn-{taille}  = surpasse le padding par défaut (optionnel)
+  ══════════════════════════════════════════════════════════════════════ */
+  .btn {
+    @apply inline-flex items-center justify-center gap-2
+           px-6 py-3 text-sm
+           font-bold rounded-xl whitespace-nowrap
+           transition-all duration-200 cursor-pointer select-none;
+  }
+  .btn:disabled {
+    @apply opacity-50 cursor-not-allowed pointer-events-none;
+  }
+
+  /* ── Tailles ── */
+  .btn-xs {
+    @apply px-3   py-1.5  text-xs;
+  }
+  .btn-sm {
+    @apply px-4   py-2    text-sm;
+  }
+  .btn-md {
+    @apply px-6   py-3    text-sm;
+  }
+  .btn-lg {
+    @apply px-8   py-3.5  text-base;
+  }
+  .btn-xl {
+    @apply px-10  py-4    text-lg;
+  }
+
+  /* ── Couleurs — Primary = Bleu ciel #0081E2 ── */
+  .btn-primary {
+    @apply btn bg-primary-500 text-white;
+    box-shadow: var(--shadow-primary);
+  }
+  .btn-primary:hover {
+    @apply bg-primary-600 -translate-y-0.5;
+  }
+
+  /* ── Couleurs — Secondary = Vert forêt #038732 ── */
+  .btn-secondary {
+    @apply btn bg-secondary-500 text-white;
+    box-shadow: var(--shadow-secondary);
+  }
+  .btn-secondary:hover {
+    @apply bg-secondary-600 -translate-y-0.5;
+  }
+
+  /* ── Couleurs — Accent = Jaune Bénin #E2CC00 (texte sombre) ── */
+  .btn-accent {
+    @apply btn bg-accent-500 text-neutral-900 font-black;
+    box-shadow: var(--shadow-accent);
+  }
+  .btn-accent:hover {
+    @apply bg-accent-600 -translate-y-0.5;
+  }
+
+  /* ── Outline — bordure bleu ciel ── */
+  .btn-outline {
+    @apply btn border-2 border-primary-500 text-primary-600 bg-transparent;
+  }
+  .btn-outline:hover {
+    @apply bg-primary-50 text-primary-700;
+  }
+
+  /* ── Ghost ── */
+  .btn-ghost {
+    @apply btn text-neutral-700;
+  }
+  .btn-ghost:hover {
+    @apply bg-neutral-100;
+  }
+
+  /* ── White ── */
+  .btn-white {
+    @apply btn bg-white text-primary-700;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  .btn-white:hover {
+    @apply -translate-y-0.5;
+  }
+
+  /* ── Danger ── */
+  .btn-danger {
+    @apply btn bg-logo-red-500 text-white;
+    box-shadow: var(--shadow-logo-red);
+  }
+  .btn-danger:hover {
+    @apply bg-logo-red-600 -translate-y-0.5;
+  }
+
+  /* ── Navy ── */
+  .btn-navy {
+    @apply btn text-white;
+    background: var(--color-navy);
+    box-shadow: var(--shadow-navy);
+  }
+  .btn-navy:hover {
+    filter: brightness(1.15);
+    @apply -translate-y-0.5;
+  }
+
+  /* ── Inputs ── */
+  .input-field {
+    @apply w-full px-4 py-3 rounded-xl border border-neutral-200 bg-white
+           text-sm text-neutral-900 placeholder:text-neutral-400
+           focus:outline-none focus:ring-2 focus:ring-primary-200
+           focus:border-primary-400 transition-all duration-150;
+    box-shadow: var(--shadow-focus) transparent;
+  }
+  .input-field:focus {
+    box-shadow: var(--shadow-focus);
+  }
+
+  /* ── Badges ── */
+  .badge {
+    @apply inline-flex items-center px-3 py-1 rounded-full text-xs font-bold;
+  }
+  .badge-primary {
+    @apply badge bg-primary-100 text-primary-700;
+  }
+  .badge-accent {
+    @apply badge bg-accent-100 text-accent-700;
+  }
+  .badge-secondary {
+    @apply badge bg-secondary-100 text-secondary-700;
+  }
+  .badge-navy {
+    @apply badge bg-navy-100 text-navy-700;
+  }
+  .badge-logo-red {
+    @apply badge bg-logo-red-100 text-logo-red-700;
+  }
+  .badge-success {
+    @apply badge bg-secondary-100 text-secondary-700;
+  }
+  .badge-warning {
+    @apply badge bg-accent-100 text-accent-700;
+  }
+  .badge-error {
+    @apply badge bg-logo-red-100 text-logo-red-700;
+  }
+
+  /* ── Stats ── */
+  .stat-card {
+    @apply card p-6 text-center;
+  }
+  .stat-number {
+    @apply text-3xl md:text-4xl font-black text-primary-600;
+  }
+  .stat-label {
+    @apply text-sm text-neutral-600 font-semibold mt-1;
+  }
+
+  /* ── Skeleton ── */
+  .skeleton {
+    @apply animate-pulse bg-neutral-200 rounded-lg;
+  }
+
+  /* ── Verre / Glassmorphism ── */
+  .glass {
+    background: rgba(255, 255, 255, 0.85);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+  }
+}
+
+/* ══════════════════════════════════════════════════════════════════════════════
+   UTILITAIRES
+══════════════════════════════════════════════════════════════════════════════ */
+@layer utilities {
+  .line-clamp-1 {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+  }
+  .line-clamp-2 {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+  }
+  .line-clamp-3 {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+  }
+  .line-clamp-4 {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+  }
+
+  /* Dégradés texte — calés sur les nouvelles couleurs officielles */
+  .text-gradient-primary {
+    /* Bleu ciel → Marine MRJC */
+    background: linear-gradient(135deg, #0081e2, #1102a5);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  .text-gradient-benin {
+    /* Vert Bénin → Bleu ciel (couleurs drapeau) */
+    background: linear-gradient(135deg, #038732, #0081e2);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  .text-gradient-gold {
+    /* Jaune Bénin foncé → Jaune vif */
+    background: linear-gradient(135deg, #7f7200, #e2cc00);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  .text-gradient-flag {
+    /* Drapeau Bénin : vert → jaune → rouge */
+    background: linear-gradient(135deg, #038732 0%, #e2cc00 50%, #e20707 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  /* Scrollbar cachée */
+  .scrollbar-hide {
+    scrollbar-width: none;
+  }
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* Polices utilitaires */
+  .font-sans {
+    font-family: var(--font-sans) !important;
+  }
+  .font-montserrat {
+    font-family: var(--font-sans) !important;
+  }
+  .font-mono {
+    font-family: var(--font-code) !important;
+  }
+
+  /* Animations utilitaires */
+  .fade-in {
+    animation: fadeIn 0.4s ease-out both;
+  }
+  .fade-in-up {
+    animation: fadeInUp 0.5s ease-out both;
+  }
+}
+
+/* ══════════════════════════════════════════════════════════════════════════════
+   ANIMATIONS GLOBALES
+══════════════════════════════════════════════════════════════════════════════ */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@keyframes shimmer {
+  from {
+    background-position: 200% 0;
+  }
+  to {
+    background-position: -200% 0;
+  }
+}
+
+/* ══════════════════════════════════════════════════════════════════════════════
+   GOOGLE TRANSLATE — Masquer la barre native
+══════════════════════════════════════════════════════════════════════════════ */
+.goog-te-banner-frame,
+.goog-te-banner-frame.skiptranslate,
+#goog-gt-tt,
+.goog-te-balloon-frame {
+  display: none !important;
+}
+body {
+  top: 0 !important;
+}
+.skiptranslate {
+  display: none !important;
+}

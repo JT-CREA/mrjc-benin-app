@@ -1,0 +1,1308 @@
+[
+  {
+    "id": "proj-001",
+    "slug": "procase-ii-filiere-manioc-borgou",
+    "title": "PROCASE II — Filière Manioc et Sécurité Alimentaire dans le Borgou",
+    "subtitle": "Renforcement durable des chaînes de valeur agricoles",
+    "shortTitle": "PROCASE II Manioc",
+    "status": "ongoing",
+    "domain": "agricultural-council",
+    "domains": ["agricultural-council"],
+    "tags": [
+      "agriculture",
+      "manioc",
+      "sécurité alimentaire",
+      "Borgou",
+      "chaîne de valeur"
+    ],
+    "excerpt": "Renforcement des chaînes de valeur manioc dans 3 communes du Borgou pour améliorer la sécurité alimentaire et les revenus de 4 200 producteurs.",
+    "description": "<p>Le projet PROCASE II vise à transformer durablement la filière manioc dans le département du Borgou à travers une approche chaîne de valeur inclusive. Il couvre les maillons de la production, la transformation, la commercialisation et la mise en marché.</p><p>L'innovation centrale est la création de 12 Centres de Services Agricoles (CSA) cogérés par les organisations paysannes, offrant services d'approvisionnement en intrants de qualité, conseil technique et accès aux marchés.</p>",
+    "objectives": [
+      "Améliorer les rendements manioc de 40% chez 2 800 producteurs",
+      "Former 150 transformatrices aux techniques modernes",
+      "Structurer 8 coopératives de commercialisation",
+      "Connecter 60% des producteurs aux marchés urbains"
+    ],
+    "activities": [
+      "Formation aux bonnes pratiques agricoles (BPA)",
+      "Mise en place de 12 Centres de Services Agricoles",
+      "Création de groupements de transformatrices",
+      "Appui à la commercialisation et mise en marché",
+      "Suivi-évaluation participatif"
+    ],
+    "zone": "Nord Bénin — Borgou",
+    "departments": ["Borgou"],
+    "communes": ["N'Dali", "Parakou", "Tchaourou"],
+    "startDate": "2022-01-01",
+    "endDate": "2025-12-31",
+    "duration": "48 mois",
+    "budget": 496500000,
+    "currency": "FCFA",
+    "funders": [
+      {
+        "name": "Union Européenne",
+        "logo": "",
+        "url": "https://europa.eu",
+        "role": "funder"
+      },
+      {
+        "name": "MAEP Bénin",
+        "logo": "",
+        "url": "https://gouv.bj",
+        "role": "funder"
+      }
+    ],
+    "partners": [],
+    "beneficiaries": [
+      {
+        "type": "Producteurs agricoles",
+        "count": 2800,
+        "description": "Agriculteurs formés aux BPA"
+      },
+      {
+        "type": "Transformatrices",
+        "count": 150,
+        "description": "Femmes transformatrices formées"
+      },
+      {
+        "type": "Ménages indirects",
+        "count": 18500,
+        "description": "Bénéficiaires indirects"
+      }
+    ],
+    "results": [
+      {
+        "indicator": "Producteurs formés",
+        "target": 2800,
+        "achieved": 2847,
+        "unit": "personnes"
+      },
+      {
+        "indicator": "Rendement moyen manioc",
+        "target": 40,
+        "achieved": 38,
+        "unit": "%"
+      },
+      {
+        "indicator": "CSA opérationnels",
+        "target": 12,
+        "achieved": 9,
+        "unit": "centres"
+      },
+      {
+        "indicator": "Revenus augmentés/an",
+        "target": 50000,
+        "achieved": 45000,
+        "unit": "FCFA"
+      }
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?w=800",
+    "gallery": [
+      {
+        "id": "g1",
+        "src": "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?w=600",
+        "alt": "Champ manioc Borgou"
+      },
+      {
+        "id": "g2",
+        "src": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=600",
+        "alt": "Formation agriculteurs"
+      }
+    ],
+    "featured": true,
+    "sdgs": [1, 2, 8, 17],
+    "createdAt": "2022-01-15T08:00:00Z",
+    "updatedAt": "2024-09-01T12:00:00Z",
+    "publishedAt": "2022-02-01T08:00:00Z",
+    "order": 1
+  },
+  {
+    "id": "proj-002",
+    "slug": "securite-nutritionnelle-atacora-donga",
+    "title": "Sécurité Nutritionnelle et Santé Maternelle dans l'Atacora-Donga",
+    "subtitle": "Programme intégré de lutte contre la malnutrition chronique",
+    "shortTitle": "Nutrition Atacora",
+    "status": "ongoing",
+    "domain": "community-health",
+    "domains": ["community-health"],
+    "tags": ["nutrition", "santé", "enfants", "femmes", "Atacora", "WASH"],
+    "excerpt": "Programme intégré de lutte contre la malnutrition chronique ciblant les enfants de 0-5 ans et les femmes enceintes dans 4 communes.",
+    "description": "<p>Face aux taux de malnutrition chronique atteignant 32% dans l'Atacora, ce programme mobilise une approche multisectorielle alliant nutrition, eau-hygiène-assainissement (WASH), et renforcement du système de santé communautaire.</p><p>Le programme s'appuie sur 240 Agents de Santé Communautaire (ASC) formés et équipés pour assurer le suivi mensuel de 8 500 enfants de moins de 5 ans.</p>",
+    "objectives": [
+      "Réduire la prévalence du retard de croissance de 32% à 22%",
+      "Former et équiper 240 ASC",
+      "Construire 8 cases de nutrition communautaires",
+      "Améliorer l'accès eau potable de 5 000 ménages"
+    ],
+    "activities": [
+      "Formation de 240 Agents de Santé Communautaire",
+      "Suivi mensuel de 8 500 enfants de 0-5 ans",
+      "Consultation prénatale et conseil allaitement",
+      "Construction de cases de nutrition",
+      "Programme WASH villageois"
+    ],
+    "zone": "Nord-Ouest Bénin — Atacora",
+    "departments": ["Atacora"],
+    "communes": ["Natitingou", "Boukoumbé", "Kouandé", "Péhunco"],
+    "startDate": "2023-03-01",
+    "endDate": "2026-02-28",
+    "duration": "36 mois",
+    "budget": 362100000,
+    "currency": "FCFA",
+    "funders": [
+      {
+        "name": "UNICEF Bénin",
+        "logo": "",
+        "url": "https://unicef.org",
+        "role": "funder"
+      },
+      {
+        "name": "ONU Femmes",
+        "logo": "",
+        "url": "https://unwomen.org",
+        "role": "funder"
+      },
+      {
+        "name": "MRJC-BÉNIN",
+        "logo": "",
+        "url": "/",
+        "role": "implementation"
+      }
+    ],
+    "partners": [],
+    "beneficiaries": [
+      {
+        "type": "Enfants 0-5 ans",
+        "count": 8500,
+        "description": "Sous surveillance nutritionnelle"
+      },
+      {
+        "type": "Femmes enceintes/allaitantes",
+        "count": 2400,
+        "description": "Bénéficiaires du programme prénatal"
+      },
+      {
+        "type": "Ménages indirects",
+        "count": 15200,
+        "description": "Bénéficiaires indirects"
+      }
+    ],
+    "results": [
+      {
+        "indicator": "Enfants sous surveillance",
+        "target": 8500,
+        "achieved": 8420,
+        "unit": "enfants"
+      },
+      {
+        "indicator": "ASC formés",
+        "target": 240,
+        "achieved": 240,
+        "unit": "agents"
+      },
+      {
+        "indicator": "Réduction malnutrition aiguë",
+        "target": 30,
+        "achieved": 28,
+        "unit": "%"
+      },
+      {
+        "indicator": "Cases nutrition construites",
+        "target": 8,
+        "achieved": 6,
+        "unit": "cases"
+      }
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800",
+    "gallery": [
+      {
+        "id": "g1",
+        "src": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=600",
+        "alt": "Pesée enfant Atacora"
+      }
+    ],
+    "featured": true,
+    "sdgs": [2, 3, 6, 5],
+    "createdAt": "2023-03-10T08:00:00Z",
+    "updatedAt": "2024-08-15T12:00:00Z",
+    "publishedAt": "2023-04-01T08:00:00Z",
+    "order": 2
+  },
+  {
+    "id": "proj-003",
+    "slug": "leadership-feminin-collines",
+    "title": "Renforcement du Leadership Féminin dans les Collines",
+    "subtitle": "Vers une représentation paritaire dans les instances de décision",
+    "shortTitle": "Leadership Femmes Collines",
+    "status": "ongoing",
+    "domain": "women-empowerment",
+    "domains": ["women-empowerment"],
+    "tags": ["femmes", "leadership", "genre", "microcrédit", "Collines"],
+    "excerpt": "Accompagnement de 800 femmes leaders vers des postes de décision locaux et renforcement de leurs activités économiques dans 4 communes.",
+    "description": "<p>Dans un contexte où les femmes ne représentent que 8% des élus locaux au Bénin, ce projet vise à renverser cette tendance en formant une nouvelle génération de leaders féminines capables de briguer des mandats électifs.</p>",
+    "objectives": [
+      "Former 800 femmes au leadership et prise de parole",
+      "Appuyer 350 femmes dans la création ou développement d'AGR",
+      "Accompagner 50 femmes candidates aux élections communales",
+      "Créer 8 réseaux de femmes leaders intercommunaux"
+    ],
+    "activities": [
+      "Formations en leadership et plaidoyer",
+      "Ateliers de renforcement de capacités organisationnelles",
+      "Appui technique et financier aux AGR",
+      "Facilitation d'accès au microcrédit",
+      "Accompagnement des candidates aux élections"
+    ],
+    "zone": "Centre Bénin — Collines",
+    "departments": ["Collines"],
+    "communes": ["Dassa-Zoumè", "Savè", "Glazoué", "Ouèssè"],
+    "startDate": "2023-06-01",
+    "endDate": "2026-05-31",
+    "duration": "36 mois",
+    "budget": 245700000,
+    "currency": "FCFA",
+    "funders": [
+      {
+        "name": "ONU Femmes",
+        "logo": "",
+        "url": "https://unwomen.org",
+        "role": "funder"
+      },
+      {
+        "name": "DDC Suisse",
+        "logo": "",
+        "url": "https://eda.admin.ch",
+        "role": "funder"
+      }
+    ],
+    "partners": [],
+    "beneficiaries": [
+      {
+        "type": "Femmes leaders",
+        "count": 812,
+        "description": "Formées en leadership"
+      },
+      {
+        "type": "Femmes bénéficiaires AGR",
+        "count": 1450,
+        "description": "Accès microcrédit"
+      },
+      {
+        "type": "Communautés indirectes",
+        "count": 6800,
+        "description": "Bénéficiaires indirects"
+      }
+    ],
+    "results": [
+      {
+        "indicator": "Femmes formées leadership",
+        "target": 800,
+        "achieved": 812,
+        "unit": "femmes"
+      },
+      {
+        "indicator": "AGR créées ou renforcées",
+        "target": 350,
+        "achieved": 347,
+        "unit": "AGR"
+      },
+      {
+        "indicator": "Femmes élues conseillères",
+        "target": 12,
+        "achieved": 28,
+        "unit": "élues"
+      },
+      {
+        "indicator": "Accès microcrédit",
+        "target": 1500,
+        "achieved": 1450,
+        "unit": "femmes"
+      }
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800",
+    "gallery": [
+      {
+        "id": "g1",
+        "src": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600",
+        "alt": "Formation leadership femmes"
+      }
+    ],
+    "featured": true,
+    "sdgs": [5, 8, 10, 16],
+    "createdAt": "2023-06-10T08:00:00Z",
+    "updatedAt": "2024-09-05T12:00:00Z",
+    "publishedAt": "2023-07-01T08:00:00Z",
+    "order": 3
+  },
+  {
+    "id": "proj-004",
+    "slug": "acces-eau-potable-mono-couffo",
+    "title": "Accès à l'Eau Potable et Assainissement dans le Mono-Couffo",
+    "subtitle": "Construction de 47 points d'eau au bénéfice de 23 000 personnes",
+    "shortTitle": "WASH Mono-Couffo",
+    "status": "completed",
+    "domain": "community-health",
+    "domains": ["community-health"],
+    "tags": ["eau", "assainissement", "WASH", "Mono", "hygiène"],
+    "excerpt": "Construction de 47 forages et 298 latrines dans 4 communes côtières pour améliorer l'accès à l'eau potable de 23 450 personnes.",
+    "description": "<p>Ce projet WASH de grande envergure a permis l'accès durable à l'eau potable pour plus de 23 000 habitant(e)s des communes côtières du Mono. L'approche novatrice a intégré la création de Comités de Points d'Eau villageois formés à la gestion et maintenance des infrastructures.</p>",
+    "objectives": [
+      "Construire 45 forages équipés de pompes manuelles",
+      "Mettre en place 292 latrines familiales et scolaires",
+      "Former 45 Comités de Points d'Eau",
+      "Sensibiliser 15 000 ménages aux pratiques d'hygiène"
+    ],
+    "activities": [
+      "Construction et réhabilitation de forages",
+      "Installation de latrines familiales et scolaires",
+      "Formation des CPE à la gestion",
+      "Campagnes de sensibilisation hygiène",
+      "Mise en place système de maintenance"
+    ],
+    "zone": "Sud-Ouest Bénin — Mono-Couffo",
+    "departments": ["Mono", "Couffo"],
+    "communes": ["Lokossa", "Athiémé", "Grand-Popo", "Houéyogbé"],
+    "startDate": "2019-09-01",
+    "endDate": "2022-08-31",
+    "duration": "36 mois",
+    "budget": 438750000,
+    "currency": "FCFA",
+    "funders": [
+      {
+        "name": "Agence Française de Développement",
+        "logo": "",
+        "url": "https://afd.fr",
+        "role": "funder"
+      },
+      {
+        "name": "PNUD Bénin",
+        "logo": "",
+        "url": "https://undp.org",
+        "role": "funder"
+      }
+    ],
+    "partners": [],
+    "beneficiaries": [
+      {
+        "type": "Bénéficiaires accès eau",
+        "count": 23450,
+        "description": "Accès durable eau potable"
+      },
+      {
+        "type": "Ménages avec latrines",
+        "count": 298,
+        "description": "Latrines familiales construites"
+      },
+      {
+        "type": "Population indirecte",
+        "count": 55000,
+        "description": "Zone d'influence"
+      }
+    ],
+    "results": [
+      {
+        "indicator": "Forages construits",
+        "target": 45,
+        "achieved": 47,
+        "unit": "forages"
+      },
+      {
+        "indicator": "Latrines réalisées",
+        "target": 292,
+        "achieved": 298,
+        "unit": "latrines"
+      },
+      {
+        "indicator": "CPE formés et opérationnels",
+        "target": 45,
+        "achieved": 47,
+        "unit": "CPE"
+      },
+      {
+        "indicator": "Bénéficiaires eau potable",
+        "target": 22000,
+        "achieved": 23450,
+        "unit": "personnes"
+      }
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1594736797933-d0401ba2fe65?w=800",
+    "gallery": [
+      {
+        "id": "g1",
+        "src": "https://images.unsplash.com/photo-1594736797933-d0401ba2fe65?w=600",
+        "alt": "Point d'eau Mono-Couffo"
+      }
+    ],
+    "impactSummary": "Le projet a dépassé tous ses objectifs initiaux, atteignant 107% de sa cible de bénéficiaires avec un coût par bénéficiaire de 19 FCFA/jour pour l'accès à l'eau.",
+    "featured": true,
+    "sdgs": [3, 6, 11],
+    "createdAt": "2019-09-15T08:00:00Z",
+    "updatedAt": "2022-10-01T12:00:00Z",
+    "publishedAt": "2019-10-01T08:00:00Z",
+    "order": 4
+  },
+  {
+    "id": "proj-005",
+    "slug": "alphabetisation-fonctionnelle-zou",
+    "title": "Alphabétisation Fonctionnelle des Femmes Rurales du Zou",
+    "subtitle": "Programme trilingue Fon-Yoruba-Français pour 3 604 femmes adultes",
+    "shortTitle": "Alpha Femmes Zou",
+    "status": "completed",
+    "domain": "literacy-education",
+    "domains": ["literacy-education"],
+    "tags": ["alphabétisation", "femmes", "Fon", "Yoruba", "Zou", "éducation"],
+    "excerpt": "Programme d'alphabétisation trilingue (Fon, Yoruba, Français) ayant alphabétisé 3 604 femmes adultes dans 48 centres communautaires.",
+    "description": "<p>Constatant que 65% des femmes rurales adultes de la zone demeuraient sans capacités de lecture et d'écriture, ce programme a déployé une approche d'alphabétisation fonctionnelle liée à la vie quotidienne et aux activités économiques des participantes.</p>",
+    "objectives": [
+      "Alphabétiser 3 500 femmes en Fon, Yoruba et Français",
+      "Créer et équiper 48 centres d'alphabétisation",
+      "Former 96 alphabétiseurs communautaires",
+      "Développer des curricula adaptés aux réalités locales"
+    ],
+    "activities": [
+      "Identification et formation de 96 alphabétiseurs",
+      "Ouverture de 48 centres d'alphabétisation",
+      "Sessions d'alphabétisation en 3 langues",
+      "Développement de supports pédagogiques adaptés",
+      "Suivi des progrès et certification"
+    ],
+    "zone": "Centre-Sud Bénin — Zou",
+    "departments": ["Zou", "Collines"],
+    "communes": ["Abomey", "Bohicon", "Zagnanado", "Kétou"],
+    "startDate": "2020-01-06",
+    "endDate": "2023-12-31",
+    "duration": "48 mois",
+    "budget": 222300000,
+    "currency": "FCFA",
+    "funders": [
+      {
+        "name": "DDC Suisse",
+        "logo": "",
+        "url": "https://eda.admin.ch",
+        "role": "funder"
+      },
+      {
+        "name": "Gouvernement du Bénin / MESTFP",
+        "logo": "",
+        "url": "https://gouv.bj",
+        "role": "funder"
+      }
+    ],
+    "partners": [],
+    "beneficiaries": [
+      {
+        "type": "Femmes alphabétisées",
+        "count": 3604,
+        "description": "Taux de rétention 85%"
+      },
+      {
+        "type": "Alphabétiseurs formés",
+        "count": 96,
+        "description": "Dont 68% de femmes"
+      },
+      {
+        "type": "Communautés indirectes",
+        "count": 12000,
+        "description": "Familles des participantes"
+      }
+    ],
+    "results": [
+      {
+        "indicator": "Femmes alphabétisées",
+        "target": 3500,
+        "achieved": 3604,
+        "unit": "femmes"
+      },
+      {
+        "indicator": "Centres opérationnels",
+        "target": 48,
+        "achieved": 48,
+        "unit": "centres"
+      },
+      {
+        "indicator": "Taux de rétention",
+        "target": 80,
+        "achieved": 85,
+        "unit": "%"
+      },
+      {
+        "indicator": "Alphabétiseurs certifiés",
+        "target": 96,
+        "achieved": 96,
+        "unit": "personnes"
+      }
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800",
+    "gallery": [
+      {
+        "id": "g1",
+        "src": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=600",
+        "alt": "Centre alphabétisation Zou"
+      }
+    ],
+    "impactSummary": "Le programme a transformé la vie de plus de 3 600 femmes qui peuvent désormais gérer leur AGR, lire les ordonnances médicales et participer aux réunions communautaires.",
+    "featured": true,
+    "sdgs": [4, 5, 10],
+    "createdAt": "2020-01-15T08:00:00Z",
+    "updatedAt": "2024-01-10T12:00:00Z",
+    "publishedAt": "2020-02-01T08:00:00Z",
+    "order": 5
+  },
+  {
+    "id": "proj-006",
+    "slug": "intermediation-sociale-alibori",
+    "title": "Intermédiation Sociale et Cohésion Communautaire dans l'Alibori",
+    "subtitle": "Prévention des conflits et renforcement de la cohésion",
+    "shortTitle": "Cohésion Alibori",
+    "status": "ongoing",
+    "domain": "social-intermediation",
+    "domains": ["social-intermediation"],
+    "tags": ["médiation", "cohésion", "conflits", "Alibori", "OCB"],
+    "excerpt": "Renforcement de la cohésion sociale et prévention des conflits intercommunautaires dans 3 communes du Nord Bénin par 124 médiateurs formés.",
+    "description": "<p>L'Alibori est marqué par des tensions récurrentes entre agriculteurs et éleveurs transhumants. Ce projet déploie une approche préventive et curative de médiation communautaire à travers 124 médiateurs formés.</p>",
+    "objectives": [
+      "Former 120 médiateurs communautaires",
+      "Renforcer 42 OCB",
+      "Élaborer 15 plans locaux de cohésion sociale",
+      "Résoudre 80% des conflits par médiation"
+    ],
+    "activities": [
+      "Formation de médiateurs communautaires",
+      "Renforcement de 42 OCB",
+      "Facilitation de dialogues inter-communautaires",
+      "Élaboration participative de plans cohésion",
+      "Appui juridique aux communautés"
+    ],
+    "zone": "Nord Bénin — Alibori",
+    "departments": ["Alibori"],
+    "communes": ["Banikoara", "Gogounou", "Kandi"],
+    "startDate": "2022-07-01",
+    "endDate": "2025-06-30",
+    "duration": "36 mois",
+    "budget": 198900000,
+    "currency": "FCFA",
+    "funders": [
+      {
+        "name": "PNUD Bénin",
+        "logo": "",
+        "url": "https://undp.org",
+        "role": "funder"
+      },
+      {
+        "name": "GIZ Allemagne",
+        "logo": "",
+        "url": "https://giz.de",
+        "role": "funder"
+      }
+    ],
+    "partners": [],
+    "beneficiaries": [
+      {
+        "type": "Communautés touchées",
+        "count": 8500,
+        "description": "Accès à la médiation"
+      },
+      {
+        "type": "Médiateurs formés",
+        "count": 124,
+        "description": "Acteurs de cohésion"
+      },
+      {
+        "type": "Population indirecte",
+        "count": 34000,
+        "description": "Bénéficiaires indirects"
+      }
+    ],
+    "results": [
+      {
+        "indicator": "Médiateurs formés",
+        "target": 120,
+        "achieved": 124,
+        "unit": "médiateurs"
+      },
+      {
+        "indicator": "OCB renforcées",
+        "target": 42,
+        "achieved": 38,
+        "unit": "OCB"
+      },
+      {
+        "indicator": "Conflits résolus",
+        "target": 80,
+        "achieved": 87,
+        "unit": "cas"
+      },
+      {
+        "indicator": "Plans cohésion validés",
+        "target": 15,
+        "achieved": 11,
+        "unit": "plans"
+      }
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=800",
+    "gallery": [
+      {
+        "id": "g1",
+        "src": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600",
+        "alt": "Réunion communautaire Alibori"
+      }
+    ],
+    "featured": false,
+    "sdgs": [10, 11, 16, 17],
+    "createdAt": "2022-07-10T08:00:00Z",
+    "updatedAt": "2024-07-01T12:00:00Z",
+    "publishedAt": "2022-08-01T08:00:00Z",
+    "order": 6
+  },
+  {
+    "id": "proj-007",
+    "slug": "conseil-agricole-plateau",
+    "title": "Conseil Agricole et Entrepreneuriat Rural dans le Plateau",
+    "subtitle": "Insertion agricole des jeunes de 18-35 ans",
+    "shortTitle": "Agri-Entrepreneuriat Plateau",
+    "status": "ongoing",
+    "domain": "agricultural-council",
+    "domains": ["agricultural-council"],
+    "tags": ["jeunes", "entrepreneuriat", "agriculture", "Plateau", "emploi"],
+    "excerpt": "Développement de l'entrepreneuriat agropastoral chez les jeunes ruraux de 18-35 ans dans 3 communes du Plateau — 428 jeunes formés à ce jour.",
+    "description": "<p>Ce projet propose une alternative concrète à l'exode rural via la formation technique et entrepreneuriale pour créer des agri-entreprises viables. Le programme cible spécifiquement les jeunes de 18 à 35 ans.</p>",
+    "objectives": [
+      "Former 600 jeunes aux techniques agropastorales",
+      "Appuyer 200 jeunes dans la création d'agri-entreprises",
+      "Connecter 150 jeunes aux marchés",
+      "Réduire l'exode rural de 15%"
+    ],
+    "activities": [
+      "Formation technique en fermes-écoles (3 mois)",
+      "Élaboration de plans d'affaires",
+      "Mise en relation avec microfinance",
+      "Suivi post-installation 18 mois",
+      "Appui accès au foncier"
+    ],
+    "zone": "Sud-Est Bénin — Plateau",
+    "departments": ["Plateau"],
+    "communes": ["Pobè", "Adja-Ouèrè", "Ifangni"],
+    "startDate": "2023-10-01",
+    "endDate": "2026-09-30",
+    "duration": "36 mois",
+    "budget": 172575000,
+    "currency": "FCFA",
+    "funders": [
+      {
+        "name": "Banque Mondiale",
+        "logo": "",
+        "url": "https://worldbank.org",
+        "role": "funder"
+      },
+      {
+        "name": "ANOPER Bénin",
+        "logo": "",
+        "url": "#",
+        "role": "technical"
+      }
+    ],
+    "partners": [],
+    "beneficiaries": [
+      {
+        "type": "Jeunes agri-entrepreneurs",
+        "count": 428,
+        "description": "En cours de formation"
+      },
+      {
+        "type": "Agri-entreprises créées",
+        "count": 134,
+        "description": "Opérationnelles"
+      },
+      {
+        "type": "Familles indirectes",
+        "count": 9800,
+        "description": "Bénéficiaires indirects"
+      }
+    ],
+    "results": [
+      {
+        "indicator": "Jeunes formés",
+        "target": 600,
+        "achieved": 428,
+        "unit": "jeunes"
+      },
+      {
+        "indicator": "Agri-entreprises créées",
+        "target": 200,
+        "achieved": 134,
+        "unit": "entreprises"
+      },
+      {
+        "indicator": "Plans d'affaires finalisés",
+        "target": 200,
+        "achieved": 134,
+        "unit": "plans"
+      },
+      {
+        "indicator": "Accès financement",
+        "target": 150,
+        "achieved": 89,
+        "unit": "jeunes"
+      }
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1566402441-0fa5af2a5937?w=800",
+    "gallery": [
+      {
+        "id": "g1",
+        "src": "https://images.unsplash.com/photo-1566402441-0fa5af2a5937?w=600",
+        "alt": "Formation agricole Plateau"
+      }
+    ],
+    "featured": false,
+    "sdgs": [1, 2, 8, 10],
+    "createdAt": "2023-10-10T08:00:00Z",
+    "updatedAt": "2024-09-10T12:00:00Z",
+    "publishedAt": "2023-11-01T08:00:00Z",
+    "order": 7
+  },
+  {
+    "id": "proj-008",
+    "slug": "sante-reproductive-adolescentes-oueme",
+    "title": "Santé Reproductive et Droits des Adolescentes dans l'Ouémé",
+    "subtitle": "Réduction des grossesses précoces de 34% en 3 ans",
+    "shortTitle": "SR Adolescentes Ouémé",
+    "status": "completed",
+    "domain": "community-health",
+    "domains": ["community-health", "women-empowerment"],
+    "tags": ["santé reproductive", "adolescentes", "genre", "Ouémé"],
+    "excerpt": "Programme ayant réduit les grossesses précoces de 34% dans 4 communes, touchant 5 847 adolescentes de 12-19 ans.",
+    "description": "<p>Ce projet a mobilisé une approche communautaire pour améliorer la santé reproductive des adolescentes dans des communes marquées par des taux élevés de grossesses précoces (18% à Sèmè-Kpodji).</p>",
+    "objectives": [
+      "Réduire les grossesses précoces de 30%",
+      "Former 120 éducateurs pairs adolescents",
+      "Renforcer 80 prestataires de santé",
+      "Sensibiliser 5 000 parents et leaders"
+    ],
+    "activities": [
+      "Formation d'éducateurs pairs adolescents",
+      "Appui aux CSCOM en SR adolescentes",
+      "Campagnes de sensibilisation communautaires",
+      "Formation des prestataires de santé",
+      "Plaidoyer auprès des leaders religieux et traditionnels"
+    ],
+    "zone": "Sud-Est Bénin — Ouémé",
+    "departments": ["Ouémé"],
+    "communes": ["Porto-Novo", "Sèmè-Kpodji", "Avrankou", "Adjohoun"],
+    "startDate": "2018-04-01",
+    "endDate": "2021-03-31",
+    "duration": "36 mois",
+    "budget": 251550000,
+    "currency": "FCFA",
+    "funders": [
+      {
+        "name": "UNFPA Bénin",
+        "logo": "",
+        "url": "https://unfpa.org",
+        "role": "funder"
+      },
+      {
+        "name": "ONU Femmes",
+        "logo": "",
+        "url": "https://unwomen.org",
+        "role": "funder"
+      }
+    ],
+    "partners": [],
+    "beneficiaries": [
+      {
+        "type": "Adolescentes 12-19 ans",
+        "count": 5847,
+        "description": "Touchées par les activités"
+      },
+      {
+        "type": "Éducateurs pairs formés",
+        "count": 128,
+        "description": "Acteurs de changement"
+      },
+      {
+        "type": "Familles indirectes",
+        "count": 28000,
+        "description": "Bénéficiaires indirects"
+      }
+    ],
+    "results": [
+      {
+        "indicator": "Réduction grossesses précoces",
+        "target": 30,
+        "achieved": 34,
+        "unit": "%"
+      },
+      {
+        "indicator": "Éducateurs pairs formés",
+        "target": 120,
+        "achieved": 128,
+        "unit": "personnes"
+      },
+      {
+        "indicator": "Prestataires santé formés",
+        "target": 80,
+        "achieved": 84,
+        "unit": "agents"
+      },
+      {
+        "indicator": "Adolescentes touchées",
+        "target": 5800,
+        "achieved": 5847,
+        "unit": "jeunes filles"
+      }
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800",
+    "gallery": [
+      {
+        "id": "g1",
+        "src": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=600",
+        "alt": "Sensibilisation SR Ouémé"
+      }
+    ],
+    "impactSummary": "L'approche éducation par les pairs a été saluée par l'UNFPA comme modèle réplicable pour la réduction des grossesses précoces en Afrique de l'Ouest.",
+    "featured": false,
+    "sdgs": [3, 5, 10],
+    "createdAt": "2018-04-15T08:00:00Z",
+    "updatedAt": "2021-05-10T12:00:00Z",
+    "publishedAt": "2018-05-01T08:00:00Z",
+    "order": 8
+  },
+  {
+    "id": "proj-009",
+    "slug": "gouvernance-locale-participative-donga",
+    "title": "Gouvernance Locale Participative et Redevabilité — Donga",
+    "subtitle": "Renforcement de la démocratie participative dans 3 communes",
+    "shortTitle": "Gouvernance Donga",
+    "status": "completed",
+    "domain": "social-intermediation",
+    "domains": ["social-intermediation"],
+    "tags": ["gouvernance", "citoyenneté", "redevabilité", "Donga"],
+    "excerpt": "64 OCB renforcées et 312 citoyens formés à la redevabilité pour renforcer la démocratie locale dans 3 communes de la Donga.",
+    "description": "<p>Ce projet a contribué au renforcement de la démocratie locale en appuyant les structures de dialogue entre citoyens et élus, et la transparence dans la gestion des ressources municipales.</p>",
+    "objectives": [
+      "Appuyer 60 OCB dans leur rôle de veille citoyenne",
+      "Créer des cadres de concertation dans 3 communes",
+      "Former 300 citoyens aux mécanismes de redevabilité",
+      "Élaborer 3 plans de développement communaux"
+    ],
+    "activities": [
+      "Renforcement de capacités des OCB",
+      "Animation de cadres de concertation citoyens-élus",
+      "Formation aux outils de redevabilité",
+      "Élaboration participative des PDC",
+      "Plaidoyer pour la transparence budgétaire"
+    ],
+    "zone": "Nord-Ouest Bénin — Donga",
+    "departments": ["Donga"],
+    "communes": ["Djougou", "Bassila", "Copargo"],
+    "startDate": "2017-10-01",
+    "endDate": "2020-09-30",
+    "duration": "36 mois",
+    "budget": 304200000,
+    "currency": "FCFA",
+    "funders": [
+      {
+        "name": "NED (National Endowment for Democracy)",
+        "logo": "",
+        "url": "https://ned.org",
+        "role": "funder"
+      },
+      {
+        "name": "DDC Suisse",
+        "logo": "",
+        "url": "https://eda.admin.ch",
+        "role": "funder"
+      }
+    ],
+    "partners": [],
+    "beneficiaries": [
+      {
+        "type": "OCB appuyées",
+        "count": 64,
+        "description": "Organisations communautaires de base"
+      },
+      {
+        "type": "Citoyens formés",
+        "count": 312,
+        "description": "En outils de redevabilité"
+      },
+      {
+        "type": "Population indirecte",
+        "count": 42000,
+        "description": "Communes couvertes"
+      }
+    ],
+    "results": [
+      {
+        "indicator": "OCB appuyées",
+        "target": 60,
+        "achieved": 64,
+        "unit": "OCB"
+      },
+      {
+        "indicator": "Citoyens formés",
+        "target": 300,
+        "achieved": 312,
+        "unit": "personnes"
+      },
+      {
+        "indicator": "PDC validés",
+        "target": 3,
+        "achieved": 3,
+        "unit": "plans"
+      },
+      {
+        "indicator": "Hausse budget groupes vulnérables",
+        "target": 15,
+        "achieved": 18,
+        "unit": "%"
+      }
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=800",
+    "gallery": [
+      {
+        "id": "g1",
+        "src": "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=600",
+        "alt": "Réunion gouvernance Donga"
+      }
+    ],
+    "impactSummary": "Le projet a permis l'adoption de 3 PDC participatifs intégrant les besoins des femmes et des groupes vulnérables, avec une augmentation de 18% des allocations budgétaires en leur faveur.",
+    "featured": false,
+    "sdgs": [10, 16, 17],
+    "createdAt": "2017-10-10T08:00:00Z",
+    "updatedAt": "2020-11-01T12:00:00Z",
+    "publishedAt": "2017-11-01T08:00:00Z",
+    "order": 9
+  },
+  {
+    "id": "proj-010",
+    "slug": "agri-resilience-climatique-atacora",
+    "title": "Résilience Agricole face aux Changements Climatiques — Atacora",
+    "subtitle": "Agroécologie et gestion durable des ressources naturelles",
+    "shortTitle": "Résilience Climatique Atacora",
+    "status": "ongoing",
+    "domain": "agricultural-council",
+    "domains": ["agricultural-council"],
+    "tags": ["climat", "agroécologie", "résilience", "Atacora", "semences"],
+    "excerpt": "Programme d'adaptation agricole promouvant l'agroécologie pour 6 000 agriculteurs dans 4 communes de l'Atacora face aux changements climatiques.",
+    "description": "<p>Ce projet de grande envergure promeut des pratiques agroécologiques permettant aux agriculteurs de maintenir leurs rendements tout en régénérant leur environnement face à l'irrégularité croissante des pluies.</p>",
+    "objectives": [
+      "Former 4 000 agriculteurs aux pratiques agroécologiques",
+      "Créer 20 banques de semences communautaires",
+      "Réhabiliter 5 000 hectares de terres dégradées",
+      "Installer 80 km de haies vives et bandes enherbées"
+    ],
+    "activities": [
+      "Formations aux techniques agroécologiques",
+      "Mise en place de banques de semences",
+      "Conservation des eaux et des sols (CES)",
+      "Introduction de variétés résilientes à la sécheresse",
+      "Système d'alerte précoce climatique"
+    ],
+    "zone": "Nord-Ouest Bénin — Atacora",
+    "departments": ["Atacora"],
+    "communes": ["Natitingou", "Tanguiéta", "Cobly", "Matéri"],
+    "startDate": "2024-01-01",
+    "endDate": "2027-12-31",
+    "duration": "48 mois",
+    "budget": 572850000,
+    "currency": "FCFA",
+    "funders": [
+      {
+        "name": "Fonds Vert Climat (GCF)",
+        "logo": "",
+        "url": "https://greenclimate.fund",
+        "role": "funder"
+      },
+      {
+        "name": "AFD",
+        "logo": "",
+        "url": "https://afd.fr",
+        "role": "funder"
+      },
+      {
+        "name": "Gouvernement du Bénin",
+        "logo": "",
+        "url": "https://gouv.bj",
+        "role": "funder"
+      }
+    ],
+    "partners": [],
+    "beneficiaries": [
+      {
+        "type": "Agriculteurs formés",
+        "count": 1842,
+        "description": "Pratiques agroécologiques"
+      },
+      {
+        "type": "Ménages bénéficiaires",
+        "count": 6000,
+        "description": "Cible finale"
+      },
+      {
+        "type": "Population indirecte",
+        "count": 24000,
+        "description": "Bénéficiaires indirects"
+      }
+    ],
+    "results": [
+      {
+        "indicator": "Agriculteurs formés",
+        "target": 4000,
+        "achieved": 1842,
+        "unit": "agriculteurs"
+      },
+      {
+        "indicator": "Banques semences créées",
+        "target": 20,
+        "achieved": 8,
+        "unit": "banques"
+      },
+      {
+        "indicator": "Hectares réhabilités",
+        "target": 5000,
+        "achieved": 1820,
+        "unit": "ha"
+      },
+      {
+        "indicator": "Haies vives plantées",
+        "target": 80,
+        "achieved": 28,
+        "unit": "km"
+      }
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800",
+    "gallery": [
+      {
+        "id": "g1",
+        "src": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=600",
+        "alt": "Pratiques agroécologiques Atacora"
+      }
+    ],
+    "featured": true,
+    "sdgs": [2, 13, 15, 17],
+    "createdAt": "2024-01-10T08:00:00Z",
+    "updatedAt": "2024-09-15T12:00:00Z",
+    "publishedAt": "2024-02-01T08:00:00Z",
+    "order": 10
+  },
+  {
+    "id": "proj-011",
+    "slug": "formation-professionnelle-jeunes-cotonou",
+    "title": "Formation Professionnelle et Insertion des Jeunes Ruraux Migrants",
+    "subtitle": "73% des apprenants insérés dans l'emploi ou créateurs d'entreprise",
+    "shortTitle": "Insertion Jeunes Migrants",
+    "status": "completed",
+    "domain": "literacy-education",
+    "domains": ["literacy-education"],
+    "tags": ["jeunes", "formation", "emploi", "insertion", "Cotonou"],
+    "excerpt": "2 847 jeunes ruraux migrants formés à Cotonou avec un taux d'insertion de 73% et 412 micro-entreprises créées.",
+    "description": "<p>Ce projet a ciblé les jeunes ruraux arrivés à Cotonou sans qualification, les accompagnant vers l'acquisition de compétences professionnelles en couture, soudure, menuiserie, électricité et maintenance informatique.</p>",
+    "objectives": [
+      "Former 2 500 jeunes dans 6 filières techniques",
+      "Certifier 90% des apprenants",
+      "Insérer 70% des formés dans un emploi ou micro-entreprise"
+    ],
+    "activities": [
+      "Formation technique en 6 filières",
+      "Certification par le FODEFCA",
+      "Placement en stage en entreprise",
+      "Appui à la création de micro-entreprises",
+      "Suivi post-formation 12 mois"
+    ],
+    "zone": "Sud Bénin — Atlantique",
+    "departments": ["Atlantique"],
+    "communes": ["Cotonou", "Abomey-Calavi"],
+    "startDate": "2019-01-07",
+    "endDate": "2022-12-31",
+    "duration": "48 mois",
+    "budget": 269100000,
+    "currency": "FCFA",
+    "funders": [
+      {
+        "name": "Banque Mondiale",
+        "logo": "",
+        "url": "https://worldbank.org",
+        "role": "funder"
+      },
+      {
+        "name": "MATP Bénin",
+        "logo": "",
+        "url": "https://gouv.bj",
+        "role": "funder"
+      }
+    ],
+    "partners": [],
+    "beneficiaries": [
+      {
+        "type": "Jeunes formés",
+        "count": 2847,
+        "description": "6 filières techniques"
+      },
+      {
+        "type": "Micro-entreprises créées",
+        "count": 412,
+        "description": "En activité"
+      },
+      {
+        "type": "Familles indirectes",
+        "count": 11200,
+        "description": "Bénéficiaires indirects"
+      }
+    ],
+    "results": [
+      {
+        "indicator": "Jeunes formés",
+        "target": 2500,
+        "achieved": 2847,
+        "unit": "jeunes"
+      },
+      {
+        "indicator": "Taux de certification",
+        "target": 90,
+        "achieved": 94,
+        "unit": "%"
+      },
+      {
+        "indicator": "Taux d'insertion",
+        "target": 70,
+        "achieved": 73,
+        "unit": "%"
+      },
+      {
+        "indicator": "Micro-entreprises créées",
+        "target": 350,
+        "achieved": 412,
+        "unit": "entreprises"
+      }
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=800",
+    "gallery": [
+      {
+        "id": "g1",
+        "src": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=600",
+        "alt": "Formation professionnelle Cotonou"
+      }
+    ],
+    "impactSummary": "Avec un taux d'insertion de 73% et 412 micro-entreprises créées, ce projet a démontré qu'une formation de qualité est la meilleure réponse à l'exode rural.",
+    "featured": false,
+    "sdgs": [4, 8, 10],
+    "createdAt": "2019-01-15T08:00:00Z",
+    "updatedAt": "2023-02-01T12:00:00Z",
+    "publishedAt": "2019-02-01T08:00:00Z",
+    "order": 11
+  },
+  {
+    "id": "proj-012",
+    "slug": "filiere-anacarde-zou",
+    "title": "Appui à la Filière Anacarde et Diversification des Revenus — Zou",
+    "subtitle": "Transformation locale et accès aux marchés d'exportation",
+    "shortTitle": "Filière Anacarde Zou",
+    "status": "ongoing",
+    "domain": "agricultural-council",
+    "domains": ["agricultural-council", "women-empowerment"],
+    "tags": [
+      "anacarde",
+      "filière",
+      "femmes",
+      "transformation",
+      "Zou",
+      "export"
+    ],
+    "excerpt": "Structuration de la filière anacarde dans le Zou — 1 640 producteurs formés, 5 unités de transformation féminines opérationnelles.",
+    "description": "<p>Ce projet vise à transformer localement une partie significative de la production d'anacarde béninoise pour créer plus de valeur ajoutée et d'emplois au niveau des producteurs, avec un focus sur les coopératives féminines de transformation.</p>",
+    "objectives": [
+      "Structurer 5 unions de coopératives anacardiers",
+      "Former 1 800 producteurs aux Bonnes Pratiques Agricoles",
+      "Créer 8 unités de transformation gérées par des femmes",
+      "Exporter 500 tonnes de noix cajou transformées par an"
+    ],
+    "activities": [
+      "Formation aux BPA anacarde",
+      "Création d'unions de coopératives",
+      "Mise en place d'unités de transformation",
+      "Formation aux normes qualité export",
+      "Mise en relation avec acheteurs internationaux"
+    ],
+    "zone": "Centre-Sud Bénin — Zou",
+    "departments": ["Zou"],
+    "communes": ["Abomey", "Agbangnizoun", "Za-Kpota", "Zogbodomey"],
+    "startDate": "2023-04-01",
+    "endDate": "2026-03-31",
+    "duration": "36 mois",
+    "budget": 304200000,
+    "currency": "FCFA",
+    "funders": [
+      {
+        "name": "Union Européenne",
+        "logo": "",
+        "url": "https://europa.eu",
+        "role": "funder"
+      },
+      {
+        "name": "SNV Pays-Bas",
+        "logo": "",
+        "url": "https://snv.org",
+        "role": "technical"
+      }
+    ],
+    "partners": [],
+    "beneficiaries": [
+      {
+        "type": "Producteurs anacarde",
+        "count": 1640,
+        "description": "Formés aux BPA"
+      },
+      {
+        "type": "Femmes transformatrices",
+        "count": 250,
+        "description": "5 unités de transformation"
+      },
+      {
+        "type": "Ménages indirects",
+        "count": 14000,
+        "description": "Bénéficiaires indirects"
+      }
+    ],
+    "results": [
+      {
+        "indicator": "Producteurs formés BPA",
+        "target": 1800,
+        "achieved": 1640,
+        "unit": "producteurs"
+      },
+      {
+        "indicator": "Unions de coopératives",
+        "target": 5,
+        "achieved": 4,
+        "unit": "unions"
+      },
+      {
+        "indicator": "Unités transformation",
+        "target": 8,
+        "achieved": 5,
+        "unit": "unités"
+      },
+      {
+        "indicator": "Revenus moyens augmentés",
+        "target": 60000,
+        "achieved": 52000,
+        "unit": "FCFA/an"
+      }
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1560472355-536de3962603?w=800",
+    "gallery": [
+      {
+        "id": "g1",
+        "src": "https://images.unsplash.com/photo-1560472355-536de3962603?w=600",
+        "alt": "Anacarde Zou transformation"
+      }
+    ],
+    "featured": false,
+    "sdgs": [1, 2, 5, 8, 17],
+    "createdAt": "2023-04-10T08:00:00Z",
+    "updatedAt": "2024-09-01T12:00:00Z",
+    "publishedAt": "2023-05-01T08:00:00Z",
+    "order": 12
+  }
+]

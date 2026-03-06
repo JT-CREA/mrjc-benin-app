@@ -1,0 +1,510 @@
+[
+  {
+    "id": "proj-001",
+    "slug": "appui-filiere-manioc-atacora",
+    "title": "Appui au Développement de la Filière Manioc dans l'Atacora",
+    "subtitle": "Renforcement des capacités des producteurs et transformation agroalimentaire",
+    "status": "ongoing",
+    "domain": "agricultural-council",
+    "tags": [
+      "manioc",
+      "filière",
+      "transformation",
+      "Atacora",
+      "entrepreneuriat"
+    ],
+    "excerpt": "Ce projet vise à structurer la filière manioc dans la région de l'Atacora par le renforcement des capacités des producteurs, l'introduction de technologies améliorées de transformation et la mise en marché.",
+    "description": "<p>Le projet Appui au Développement de la Filière Manioc dans l'Atacora est une initiative ambitieuse qui cible 1 200 producteurs agricoles répartis dans 45 villages. Il s'articule autour de trois axes : renforcement des capacités techniques, accès aux intrants de qualité, amélioration des circuits de commercialisation.</p><p>L'approche participative place les producteurs au centre, garantissant l'appropriation des innovations et la pérennité des résultats.</p>",
+    "objectives": [
+      "Augmenter la productivité manioc de 40%",
+      "Former 1 200 producteurs aux bonnes pratiques agricoles",
+      "Installer 12 unités de transformation semi-industrielles",
+      "Connecter les producteurs à 8 marchés régionaux"
+    ],
+    "activities": [
+      "Sessions de formation en techniques culturales améliorées",
+      "Distribution de boutures saines et intrants",
+      "Mise en place de groupements de producteurs",
+      "Appui à l'installation d'équipements de transformation",
+      "Formations en gestion financière et entrepreneuriat"
+    ],
+    "zone": "Atacora-Donga",
+    "departments": ["Atacora", "Donga"],
+    "communes": ["Natitingou", "Toucountouna", "Kouandé", "Péhunco"],
+    "villages": 45,
+    "startDate": "2022-03-01",
+    "endDate": "2025-02-28",
+    "duration": "36 mois",
+    "budget": 285000000,
+    "currency": "XOF",
+    "funders": [
+      { "name": "Union Européenne", "type": "bailleur", "share": 60 },
+      { "name": "AFD", "type": "bailleur", "share": 30 },
+      { "name": "Gouvernement du Bénin", "type": "gouvernement", "share": 10 }
+    ],
+    "partners": ["MAEP", "CeCPA Atacora", "Chambre d'Agriculture du Bénin"],
+    "beneficiaries": [
+      { "category": "Producteurs directs", "count": 1200, "gender": "mixte" },
+      { "category": "Membres des ménages", "count": 6000, "gender": "mixte" },
+      { "category": "Femmes transformatrices", "count": 240, "gender": "femme" }
+    ],
+    "results": [
+      "850 producteurs formés à mi-parcours",
+      "6 unités de transformation installées",
+      "Productivité moyenne +28%",
+      "3 marchés régionaux connectés"
+    ],
+    "impactSummary": "À mi-parcours, 850 producteurs touchés et +28% de productivité dans les zones d'intervention.",
+    "coverImage": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=1200",
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800",
+        "caption": "Formation pratique au champ"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1523741543316-beb7fc7023d8?w=800",
+        "caption": "Séance de formation groupement"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?w=800",
+        "caption": "Récolte de manioc amélioré"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1581591524425-c7e0978865fc?w=800",
+        "caption": "Unité de transformation cossettes"
+      }
+    ],
+    "documents": [
+      {
+        "title": "Rapport d'avancement S1 2024",
+        "type": "rapport",
+        "url": "#"
+      },
+      { "title": "Fiche technique du projet", "type": "fiche", "url": "#" }
+    ],
+    "testimonial": {
+      "quote": "Avant le projet, je vendais le manioc à perte. Maintenant je transforme et vends trois fois plus cher.",
+      "author": "Adjibadé Komlan",
+      "role": "Producteur, Péhunco",
+      "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200"
+    },
+    "featured": true,
+    "order": 1,
+    "createdAt": "2022-01-15T00:00:00Z",
+    "updatedAt": "2024-09-01T00:00:00Z",
+    "publishedAt": "2022-03-01T00:00:00Z"
+  },
+  {
+    "id": "proj-002",
+    "slug": "nutrition-communautaire-zou",
+    "title": "Renforcement de la Sécurité Nutritionnelle dans le Zou",
+    "subtitle": "Lutte contre la malnutrition infantile et maternelle dans 120 villages",
+    "status": "ongoing",
+    "domain": "community-health",
+    "tags": ["nutrition", "santé", "enfants", "Zou", "malnutrition", "UNICEF"],
+    "excerpt": "Programme intégré de lutte contre la malnutrition infantile et maternelle dans 120 villages du département du Zou, ciblant 8 500 enfants de moins de 5 ans et 2 000 femmes enceintes.",
+    "description": "<p>Ce programme intervient sur l'ensemble de la chaîne nutritionnelle : sensibilisation communautaire, dépistage actif, prise en charge thérapeutique, renforcement des pratiques d'alimentation du nourrisson.</p><p>Il repose sur un réseau de 120 agents communautaires de santé formés et équipés.</p>",
+    "objectives": [
+      "Réduire le taux de malnutrition aiguë de 34% à moins de 20%",
+      "Former 120 agents communautaires de santé",
+      "Assurer le suivi mensuel de 8 500 enfants",
+      "Promouvoir l'allaitement maternel exclusif jusqu'à 6 mois"
+    ],
+    "activities": [
+      "Dépistage communautaire mensuel (MUAC + poids/taille)",
+      "Prise en charge nutritionnelle ambulatoire",
+      "Sessions de démonstrations culinaires",
+      "Formation des mères leaders communautaires",
+      "Mise en place de jardins potagers familiaux"
+    ],
+    "zone": "Zou",
+    "departments": ["Zou"],
+    "communes": ["Abomey", "Bohicon", "Zagnanado", "Covè", "Djidja"],
+    "villages": 120,
+    "startDate": "2023-01-01",
+    "endDate": "2025-12-31",
+    "duration": "36 mois",
+    "budget": 195000000,
+    "currency": "XOF",
+    "funders": [
+      { "name": "UNICEF Bénin", "type": "agence-onu", "share": 70 },
+      { "name": "DDC (Suisse)", "type": "bailleur", "share": 30 }
+    ],
+    "partners": [
+      "Ministère de la Santé Bénin",
+      "Zone Sanitaire Abomey-Bohicon"
+    ],
+    "beneficiaries": [
+      { "category": "Enfants < 5 ans", "count": 8500, "gender": "mixte" },
+      {
+        "category": "Femmes enceintes/allaitantes",
+        "count": 2000,
+        "gender": "femme"
+      },
+      { "category": "Agents communautaires", "count": 120, "gender": "mixte" }
+    ],
+    "results": [
+      "Taux malnutrition aiguë: 34% → 22%",
+      "120 agents formés et équipés",
+      "Allaitement exclusif +15 points",
+      "2 800 jardins potagers créés"
+    ],
+    "impactSummary": "En 18 mois, le taux de malnutrition aiguë a chuté de 34% à 22% — réduction de 35% plus rapide que prévu.",
+    "coverImage": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=1200",
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=800",
+        "caption": "Consultation nutritionnelle"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=800",
+        "caption": "Démonstration culinaire"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800",
+        "caption": "Formation agents communautaires"
+      }
+    ],
+    "documents": [
+      { "title": "Rapport mi-parcours 2024", "type": "rapport", "url": "#" }
+    ],
+    "testimonial": {
+      "quote": "Mon fils souffrait de malnutrition sévère. Les agents MRJC-BÉNIN l'ont pris en charge gratuitement. Il est maintenant en parfaite santé.",
+      "author": "Célestine Ahoyo",
+      "role": "Mère de famille, Bohicon",
+      "photo": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?w=200"
+    },
+    "featured": true,
+    "order": 2,
+    "createdAt": "2022-10-01T00:00:00Z",
+    "updatedAt": "2024-08-15T00:00:00Z",
+    "publishedAt": "2023-01-01T00:00:00Z"
+  },
+  {
+    "id": "proj-003",
+    "slug": "alphabetisation-femmes-borgou",
+    "title": "Alphabétisation Fonctionnelle des Femmes Rurales du Borgou",
+    "subtitle": "Lire, écrire, compter — pour mieux entreprendre",
+    "status": "completed",
+    "domain": "literacy-education",
+    "tags": ["alphabétisation", "femmes", "Borgou", "éducation", "fonctionnel"],
+    "excerpt": "Projet d'alphabétisation fonctionnelle ciblant 3 604 femmes rurales du Borgou en langues Bariba et Dendi. Résultats exceptionnels avec 92% de taux de réussite.",
+    "description": "<p>Ce projet a représenté la plus grande opération d'alphabétisation des femmes rurales conduite par MRJC-BÉNIN. En trois phases, il a permis à 3 604 femmes d'acquérir les compétences de lecture, d'écriture et de calcul en langues nationales.</p>",
+    "objectives": [
+      "Alphabétiser 3 600 femmes en langues Bariba et Dendi",
+      "Intégrer des modules santé reproductive et droits",
+      "Former 180 animateurs/animatrices",
+      "Mettre en place 180 centres d'alphabétisation"
+    ],
+    "activities": [
+      "Sessions d'alphabétisation (600h par cycle)",
+      "Formation des animateurs communautaires",
+      "Production de matériel pédagogique en langues locales",
+      "Modules post-alphabétisation",
+      "Cérémonies de remise de certificats"
+    ],
+    "zone": "Borgou-Alibori",
+    "departments": ["Borgou", "Alibori"],
+    "communes": ["Parakou", "N'Dali", "Pèrèrè", "Nikki", "Bembèrèkè"],
+    "villages": 180,
+    "startDate": "2018-09-01",
+    "endDate": "2021-08-31",
+    "duration": "36 mois",
+    "budget": 145000000,
+    "currency": "XOF",
+    "funders": [
+      { "name": "FODEFCA", "type": "gouvernement", "share": 50 },
+      { "name": "DDC (Suisse)", "type": "bailleur", "share": 40 },
+      { "name": "MRJC-BÉNIN (fonds propres)", "type": "ong", "share": 10 }
+    ],
+    "partners": [
+      "MEF/FODEFCA",
+      "Mairies des communes d'intervention",
+      "CIEFFA"
+    ],
+    "beneficiaries": [
+      { "category": "Femmes alphabétisées", "count": 3604, "gender": "femme" },
+      { "category": "Animateurs formés", "count": 180, "gender": "mixte" },
+      {
+        "category": "Familles touchées indirectement",
+        "count": 18000,
+        "gender": "mixte"
+      }
+    ],
+    "results": [
+      "3 604 femmes certifiées (taux 92%)",
+      "180 centres opérationnels",
+      "78% ont créé ou amélioré une activité économique",
+      "Prix d'excellence FODEFCA 2022"
+    ],
+    "impactSummary": "92% de taux de réussite, 3 604 femmes certifiées. Prix d'excellence FODEFCA. Modèle répliqué dans deux autres régions.",
+    "coverImage": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200",
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=800",
+        "caption": "Session d'alphabétisation"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800",
+        "caption": "Remise des certificats"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800",
+        "caption": "Groupe de femmes alphabétisées"
+      }
+    ],
+    "documents": [
+      { "title": "Rapport final d'évaluation", "type": "rapport", "url": "#" },
+      { "title": "Manuel pédagogique Bariba", "type": "guide", "url": "#" }
+    ],
+    "testimonial": {
+      "quote": "J'ai appris à lire à 45 ans. Maintenant je tiens moi-même la comptabilité de ma boutique. C'est un miracle pour moi.",
+      "author": "Mariam Orou Koto",
+      "role": "Commerçante, Parakou",
+      "photo": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=200"
+    },
+    "featured": true,
+    "order": 3,
+    "createdAt": "2018-06-01T00:00:00Z",
+    "updatedAt": "2022-01-10T00:00:00Z",
+    "publishedAt": "2018-09-01T00:00:00Z"
+  },
+  {
+    "id": "proj-004",
+    "slug": "leadership-feminin-collines",
+    "title": "Renforcement du Leadership Féminin dans les Collines",
+    "subtitle": "Vers une gouvernance locale plus inclusive et paritaire",
+    "status": "ongoing",
+    "domain": "women-empowerment",
+    "tags": ["leadership", "femmes", "gouvernance", "Collines", "microcrédit"],
+    "excerpt": "Ce projet vise à renforcer la participation des femmes à la gouvernance locale et à l'entrepreneuriat dans 5 communes des Collines, ciblant 800 femmes leaders.",
+    "description": "<p>Dans les Collines, les femmes représentent 52% de la population mais moins de 15% des élus locaux. Ce projet combat ces inégalités en formant 800 femmes leaders, en lien avec les mairies et conseils communaux.</p>",
+    "objectives": [
+      "Former 800 femmes en leadership et gouvernance",
+      "Augmenter de 30% la représentation féminine dans les instances locales",
+      "Faciliter l'accès au microcrédit pour 500 femmes",
+      "Conduire 20 sessions de plaidoyer auprès des mairies"
+    ],
+    "activities": [
+      "Formation en leadership et prise de parole",
+      "Modules droits des femmes et gouvernance",
+      "Mise en relation avec institutions de microfinance",
+      "Création de réseaux locaux de femmes leaders",
+      "Plaidoyer auprès des instances décisionnelles"
+    ],
+    "zone": "Collines",
+    "departments": ["Collines"],
+    "communes": ["Dassa-Zoumè", "Glazoué", "Savalou", "Bantè", "Ouèssè"],
+    "villages": 65,
+    "startDate": "2023-06-01",
+    "endDate": "2026-05-31",
+    "duration": "36 mois",
+    "budget": 220000000,
+    "currency": "XOF",
+    "funders": [
+      { "name": "ONU Femmes Bénin", "type": "agence-onu", "share": 65 },
+      { "name": "Ambassade des Pays-Bas", "type": "bailleur", "share": 35 }
+    ],
+    "partners": [
+      "Mairies des Collines",
+      "Réseau des Femmes Élues Locales du Bénin"
+    ],
+    "beneficiaries": [
+      { "category": "Femmes leaders formées", "count": 800, "gender": "femme" },
+      {
+        "category": "Communautés bénéficiaires",
+        "count": 12000,
+        "gender": "mixte"
+      }
+    ],
+    "results": [
+      "350 femmes formées en an 1",
+      "12 femmes nouvellement élues",
+      "280 dossiers de microcrédit instruits",
+      "8 sessions de plaidoyer conduites"
+    ],
+    "impactSummary": "12 femmes ont accédé à des mandats électifs locaux en première année — un résultat historique pour les Collines.",
+    "coverImage": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200",
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800",
+        "caption": "Formation au leadership"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=800",
+        "caption": "Session de plaidoyer"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800",
+        "caption": "Réseau femmes leaders"
+      }
+    ],
+    "documents": [
+      { "title": "Rapport annuel 2023-2024", "type": "rapport", "url": "#" }
+    ],
+    "testimonial": {
+      "quote": "Je suis aujourd'hui conseillère municipale, quelque chose que je n'aurais jamais imaginé.",
+      "author": "Fatima Tchitchi",
+      "role": "Conseillère municipale, Dassa-Zoumè",
+      "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200"
+    },
+    "featured": true,
+    "order": 4,
+    "createdAt": "2023-03-01T00:00:00Z",
+    "updatedAt": "2024-07-01T00:00:00Z",
+    "publishedAt": "2023-06-01T00:00:00Z"
+  },
+  {
+    "id": "proj-005",
+    "slug": "eau-assainissement-mono",
+    "title": "Accès à l'Eau Potable et Assainissement dans le Mono",
+    "subtitle": "WASH communautaire pour 15 000 habitants dans 40 villages",
+    "status": "completed",
+    "domain": "community-health",
+    "tags": ["eau", "assainissement", "WASH", "Mono", "hygiène"],
+    "excerpt": "Projet WASH d'accès à l'eau potable et d'amélioration de l'assainissement dans 40 villages du Mono — 15 000 bénéficiaires, 25 forages construits.",
+    "description": "<p>Ce projet WASH a permis à 15 000 habitants de 40 villages d'accéder à l'eau potable et à des latrines hygiéniques. Un programme intensif de sensibilisation a ancré des comportements sains durables.</p>",
+    "objectives": [
+      "Construire 25 forages équipés",
+      "Réhabiliter 10 points d'eau",
+      "Construire 800 latrines familiales",
+      "Former 80 comités de gestion de l'eau"
+    ],
+    "activities": [
+      "Études hydrogéologiques et implantation",
+      "Construction et réhabilitation de points d'eau",
+      "Formation des comités d'eau",
+      "Sensibilisation ATPC",
+      "Certification villages FDAL"
+    ],
+    "zone": "Mono-Couffo",
+    "departments": ["Mono"],
+    "communes": ["Lokossa", "Athiémé", "Bopa", "Houeyogbé"],
+    "villages": 40,
+    "startDate": "2019-01-01",
+    "endDate": "2021-12-31",
+    "duration": "36 mois",
+    "budget": 380000000,
+    "currency": "XOF",
+    "funders": [
+      { "name": "Union Européenne", "type": "bailleur", "share": 75 },
+      { "name": "Gouvernement du Bénin", "type": "gouvernement", "share": 25 }
+    ],
+    "partners": ["Ministère de l'Eau", "SONEB", "Mairies du Mono"],
+    "beneficiaries": [
+      {
+        "category": "Bénéficiaires eau potable",
+        "count": 15000,
+        "gender": "mixte"
+      },
+      {
+        "category": "Ménages dotés de latrines",
+        "count": 800,
+        "gender": "mixte"
+      }
+    ],
+    "results": [
+      "25 forages construits",
+      "15 000 personnes avec eau potable",
+      "38 villages certifiés FDAL",
+      "Maladies hydriques -45%"
+    ],
+    "impactSummary": "15 000 personnes accèdent à l'eau potable. 38/40 villages certifiés FDAL — record pour le Mono.",
+    "coverImage": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=1200",
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=800",
+        "caption": "Inauguration d'un forage"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800",
+        "caption": "Formation comité de gestion"
+      }
+    ],
+    "documents": [
+      { "title": "Rapport final WASH Mono", "type": "rapport", "url": "#" }
+    ],
+    "testimonial": {
+      "quote": "Avant il fallait marcher 3 km pour l'eau. Nos enfants tombaient malades souvent. Maintenant le forage est à 100 mètres et l'eau est propre.",
+      "author": "Chef de village Djakotomey",
+      "role": "Leader communautaire, Mono",
+      "photo": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=200"
+    },
+    "featured": false,
+    "order": 5,
+    "createdAt": "2018-09-01T00:00:00Z",
+    "updatedAt": "2022-06-01T00:00:00Z",
+    "publishedAt": "2019-01-01T00:00:00Z"
+  },
+  {
+    "id": "proj-006",
+    "slug": "gouvernance-locale-participative-oueme",
+    "title": "Renforcement de la Gouvernance Locale Participative dans l'Ouémé",
+    "subtitle": "Citoyens acteurs de leur développement",
+    "status": "planned",
+    "domain": "social-intermediation",
+    "tags": [
+      "gouvernance",
+      "participation",
+      "Ouémé",
+      "citoyenneté",
+      "décentralisation"
+    ],
+    "excerpt": "Projet d'appui à la gouvernance locale participative dans 6 communes de l'Ouémé — 1 200 citoyens formés, 6 comités de veille, outils numériques de transparence.",
+    "description": "<p>Ce projet en phase de démarrage vise à construire des ponts entre citoyens et élus locaux dans l'Ouémé, via formation civique, espaces de dialogue et outils numériques de transparence.</p>",
+    "objectives": [
+      "Former 1 200 citoyens en droits et gouvernance",
+      "Mettre en place 6 comités de veille citoyenne",
+      "Organiser 24 forums communaux de dialogue",
+      "Développer un outil numérique de suivi budgétaire"
+    ],
+    "activities": [
+      "Sessions d'éducation civique",
+      "Création de comités de veille",
+      "Forums communaux trimestriels",
+      "Formation des OSC locales",
+      "Portail de transparence budgétaire"
+    ],
+    "zone": "Ouémé-Plateau",
+    "departments": ["Ouémé"],
+    "communes": [
+      "Porto-Novo",
+      "Adjarra",
+      "Avrankou",
+      "Bonou",
+      "Dangbo",
+      "Akpro-Missérété"
+    ],
+    "villages": 50,
+    "startDate": "2025-01-01",
+    "endDate": "2027-12-31",
+    "duration": "36 mois",
+    "budget": 165000000,
+    "currency": "XOF",
+    "funders": [
+      { "name": "Ambassade des Pays-Bas", "type": "bailleur", "share": 80 },
+      { "name": "MRJC-BÉNIN (fonds propres)", "type": "ong", "share": 20 }
+    ],
+    "partners": [
+      "Ministère de la Décentralisation",
+      "Association des Communes du Bénin"
+    ],
+    "beneficiaries": [
+      { "category": "Citoyens formés", "count": 1200, "gender": "mixte" },
+      { "category": "Communes bénéficiaires", "count": 6, "gender": "mixte" }
+    ],
+    "results": [],
+    "impactSummary": "Projet en phase de démarrage — premiers résultats attendus fin 2025.",
+    "coverImage": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=1200",
+    "gallery": [],
+    "documents": [
+      { "title": "Document de projet approuvé", "type": "fiche", "url": "#" }
+    ],
+    "testimonial": null,
+    "featured": false,
+    "order": 6,
+    "createdAt": "2024-06-01T00:00:00Z",
+    "updatedAt": "2024-11-01T00:00:00Z",
+    "publishedAt": "2024-11-01T00:00:00Z"
+  }
+]

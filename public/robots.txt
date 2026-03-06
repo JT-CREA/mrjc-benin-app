@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+# Bloquer les pages de confirmation et API
+Disallow: /api/
+Disallow: /newsletter/confirm/
+Disallow: /newsletter/unsubscribe/
+Disallow: /contact/success/
+Disallow: /donate/success/
+
+# Sitemap
+Sitemap: https://mrjc-benin.org/sitemap.xml
+
+# Délai de crawl recommandé
+Crawl-delay: 1

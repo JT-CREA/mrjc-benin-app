@@ -1,0 +1,16 @@
+# Dépendances
+node_modules/
+.next/
+out/
+build/
+*.zip
+*.rar
+
+# Sécurité (IMPORTANT)
+.env
+.env.local
+.env.production
+
+# Logs et divers
+npm-debug.log*
+.DS_Store
